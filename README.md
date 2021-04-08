@@ -10,5 +10,5 @@ K번째수 : https://hyun99999.github.io/swift/algorithm/Swift)-K번째수-알�
 
 가장 큰 수 : https://hyun99999.github.io/swift/algorithm/Swift)-가장-큰-수-알고리즘-풀이/
 
-### .gitignore 추가
+## .gitignore 추가
 https://www.toptal.com/developers/gitignore/api/swift,cocoapods,xcode
