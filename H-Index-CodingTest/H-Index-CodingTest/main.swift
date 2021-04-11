@@ -8,13 +8,12 @@
 import Foundation
 
 func solution(_ citations:[Int]) -> Int {
-    let sorted = citations.sorted(by: >)
-    for h in (1...sorted.count).reversed() {
-        if sorted[h-1] >= h {
-            return h
+    for (index, element) in citations.sorted(by: >).enumerated() {
+        if index >= element {
+            return index
         }
     }
-    return 0
+    return citations.count
 }
 let citation = [3, 0, 6, 1, 5]
 print(solution(citation))
