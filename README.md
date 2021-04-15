@@ -11,6 +11,8 @@ K번째수 : https://hyun99999.github.io/swift/algorithm/Swift)-K번째수-알�
 
 두 개 뽑아서 더하기 : https://hyun99999.github.io/swift/algorithm/Swift)-두-개-뽑아서-더하기-알고리즘-풀이/
 
+체육관 : https://hyun99999.github.io/swift/algorithm/Swift)-체육복-알고리즘-풀이/
+
 ## Level2
 가장 큰 수 : https://hyun99999.github.io/swift/algorithm/Swift)-가장-큰-수-알고리즘-풀이/
 
