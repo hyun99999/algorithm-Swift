@@ -1,11 +1,7 @@
 # algorithm-Swift
 🤯 Swift algorithm study
 
-- 알고리즘 프로젝트 만들 때 xcode 에서 Git repository 체크해제
-
-https://hyun99999.github.io
-
-### 프로그래머스
+# 프로그래머스
 ## Level1
 [K번째수][K번째수]
 
