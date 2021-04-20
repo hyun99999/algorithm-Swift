@@ -1,0 +1,75 @@
+프로그래머스 가장 큰 수 알고리즘 풀이
+
+코딩테스트 연습 > 정렬 > Level2 > 가장 큰 수
+
+https://programmers.co.kr/learn/courses/30/lessons/42746
+
+## 가장 큰 수
+<img src ="https://user-images.githubusercontent.com/69136340/113957155-b02a3700-9859-11eb-8ffd-0a2e90c7058c.png" width ="400">
+
+```swift
+import Foundation
+
+func solution(_ numbers:[Int]) -> String {
+    let result = numbers.sorted(by: {Int("\($0)\($1)")! > Int("\($1)\($0)")!} )
+    return result[0] == 0 ? "0" : result.reduce(""){ $0 + "\($1)" }
+}
+```
+
+## Closure expression syntax
+클로저의 기본적인 표현 방법
+```swift
+{ ( parameters ) -> return type in
+    statements
+}
+```
+예시를 들어가면서 진행하겠다
+``` swift
+let names = ["Chris", "Alex", "Ewa", "Barry", "Daniella"]
+func backward(_ s1: String, _ s2: String) -> Bool {
+    return s1 > s2
+}
+var reversedNames = names.sorted(by: backward)
+// reversedNames is equal to ["Ewa", "Daniella", "Chris", "Barry", "Alex"]
+```
+위의 코드를 클로저 표현식 구문으로 나타내 보면
+```swift
+let reversedNames = names.sorted(by: { (s1: String, s2: String) -> Bool in
+    return s1 > s2
+})
+```
+함수를 아예 () 속에 집어넣었다. 실행문은 in 뒤에 써주었다. 
+
+## Inferring Type from context
+sorted(by: ) 메서드에서 매개변수로 함수 타입을 받기 때문에 결과적으로 함수 타입과 반환할 타입을 유추할 수 있다.
+```swift
+let reversedNames = names.sorted(by: { s1, s2 in return s1 > s2 } )
+```
+
+## Implicit returns form Single-Expression closure
+단일 표현식에서는 return 키워드도 생략가능하다.
+```swift
+let reversedNames = names.sorted(by: { s1, s2 in s1 > s2 } )
+```
+
+## Shortand argument names
+Swift 는 인라인 클로저에서 인수 이름을 간단하게 사용하는 방법을 제공한다. 이때 in 키워드도 생략할 수 있다.
+```swift
+let reversedNames = names.sorted(by: { $0 > $1 } )
+```
+
+## Operator methods
+비교 연산자(<, >) 를 사용해서 비교할 수 있다.
+```swift
+let reversedNames = names.sorted(by: >)
+//우리가 알고있던 sorted(by: ) 형태가 되는 것이다.
+//내림차순으로 정렬된 배열을 반환하게 된다.
+```
+
+## Reduce
+매개변수로 전달받은 함수의 연산 결과로 각 배열의 모든 값을 함침.
+
+### 출처
+출처ㅣhttps://icksw.tistory.com/9
+
+출처ㅣhttps://zetal.tistory.com/entry/swift-기초문법-15-맵Map-필터Filter-리듀스Reduce
