@@ -18,10 +18,6 @@
 
 [H-Index][H-Index]
 
-## .gitignore 추가
-https://www.toptal.com/developers/gitignore/api/swift,cocoapods,xcode
-
-
 [K번째수]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/K번째수.md
 [두 개 뽑아서 더하기]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/두%20개%20뽑아서%20더하기.md
 [체육복]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/체육복.md
