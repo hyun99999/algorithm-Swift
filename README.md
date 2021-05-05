@@ -15,6 +15,7 @@
 
 [크레인 인형뽑기 게임][크레인 인형뽑기 게임]
 
+[신규 아이디 추천][신규 아이디 추천]
 
 ## Level2
 [가장 큰 수][가장 큰 수]
@@ -29,4 +30,4 @@
 [가운데 글자 가져오기]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/가운데%20글자%20가져오기.md
 [문자열 내림차순으로 배치하기]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/문자열%20내림차순으로%20배치하기.md
 [크레인 인형뽑기 게임]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/크레인%20인형뽑기%20게임.md
-
+[신규 아이디 추천]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/신규%20아이디%20추천.swift
