@@ -1,7 +1,7 @@
 # algorithm-Swift
-🤯 Swift algorithm study
+🤯 스위프트 알고리즘 대작전 🤯
 
-# 프로그래머스
+###  프로그래머스
 ## Level1
 - [K번째수][K번째수]
 - [두 개 뽑아서 더하기][두 개 뽑아서 더하기]
