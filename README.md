@@ -3,24 +3,18 @@
 
 # 프로그래머스
 ## Level1
-[K번째수][K번째수]
-
-[두 개 뽑아서 더하기][두 개 뽑아서 더하기]
-
-[체육복][체육복]
-
-[가운데 글자 가져오기][가운데 글자 가져오기]
-
-[문자열 내림차순으로 배치하기][문자열 내림차순으로 배치하기]
-
-[크레인 인형뽑기 게임][크레인 인형뽑기 게임]
-
-[신규 아이디 추천][신규 아이디 추천]
+- [K번째수][K번째수]
+- [두 개 뽑아서 더하기][두 개 뽑아서 더하기]
+- [체육복][체육복]
+- [가운데 글자 가져오기][가운데 글자 가져오기]
+- [문자열 내림차순으로 배치하기][문자열 내림차순으로 배치하기]
+- [크레인 인형뽑기 게임][크레인 인형뽑기 게임]
+- [신규 아이디 추천][신규 아이디 추천]
 
 ## Level2
-[가장 큰 수][가장 큰 수]
-
-[H-Index][H-Index]
+- [가장 큰 수][가장 큰 수]
+- [H-Index][H-Index]
+- [거리두기 확인하기(BFS)](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/거리두기확인하기(BFS).playground/Contents.swift)
 
 [K번째수]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/K번째수.md
 [두 개 뽑아서 더하기]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/두%20개%20뽑아서%20더하기.md
