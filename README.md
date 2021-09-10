@@ -15,6 +15,7 @@
 - [가장 큰 수][가장 큰 수]
 - [H-Index][H-Index]
 - [거리두기 확인하기(BFS)](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/거리두기확인하기(BFS).playground/Contents.swift)
+- [메뉴 리뉴얼](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/메뉴리뉴얼.playground/Contents.swift)
 
 [K번째수]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/K번째수.md
 [두 개 뽑아서 더하기]: https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/두%20개%20뽑아서%20더하기.md
