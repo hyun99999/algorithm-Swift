@@ -19,3 +19,4 @@
 |   거리두기 확인하기(BFS)     |  Level 2 |   [🛠](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/거리두기확인하기(BFS).playground/Contents.swift)    | `21.09.09`  |
 |   메뉴 리뉴얼              |  Level 2 |   [🛠](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/메뉴리뉴얼.playground/Contents.swift)    | `21.09.10`  |
 |   오픈채팅방               |  Level 2 |   [🛠](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/오픈채팅방.playground/Contents.swift)    | `21.10.13`  |
+|   주차 요금 계산               |  Level 2 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/주차%20요금%20계산.swift)    | `22.05.06`  |
