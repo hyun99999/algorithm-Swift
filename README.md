@@ -21,3 +21,4 @@
 |   오픈채팅방               |  Level 2 |   [🛠](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/오픈채팅방.playground/Contents.swift)    | `21.10.13`  |
 |   주차 요금 계산               |  Level 2 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/주차%20요금%20계산.swift)    | `22.05.06`  |
 |   [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=swift)               |  Level 1 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/없는%20숫자%20더하기.swift)    | `22.06.21`  |
+[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)               |  Level 1 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/나머지가%201이%20되는%20수%20찾기.swift)    | `22.06.29`  |
