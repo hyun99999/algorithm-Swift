@@ -23,3 +23,4 @@
 |   [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=swift)               |  Level 1 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/없는%20숫자%20더하기.swift)    | `22.06.21`  |
 [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)               |  Level 1 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/나머지가%201이%20되는%20수%20찾기.swift)    | `22.06.29`  |
 [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)               |  Level 2 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/빛의%20경로%20사이클.swift)    | `22.06.29`  |
+[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)               |  Level 2 |   [🥴]https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/n%5E2%20배열%20자르기.swift    | `22.07.01`  |
