@@ -4,12 +4,13 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------: |
-|   [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)               |  Level 1 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/약수의%20개수와%20덧셈.swift)    | `22.07.02`  |
-|   [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)               |  Level 1 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/음양%20더하기.swift)    | `22.07.01`  |
-[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)               |  Level 2 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/n%5E2%20배열%20자르기.swift)    | `22.07.01`  |
-[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)               |  Level 2 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/빛의%20경로%20사이클.swift)    | `22.06.29`  |
-[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)               |  Level 1 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/나머지가%201이%20되는%20수%20찾기.swift)    | `22.06.29`  |
-|   [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=swift)               |  Level 1 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/없는%20숫자%20더하기.swift)    | `22.06.21`  |
+|   [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)               |  Level 2 |   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/2개%20이하로%20다른%20비트.swift)    | `22.07.02`  |
+|   [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/약수의%20개수와%20덧셈.swift)    | `22.07.02`  |
+|   [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/음양%20더하기.swift)    | `22.07.01`  |
+[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)               |  Level 2 |   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/n%5E2%20배열%20자르기.swift)    | `22.07.01`  |
+[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)               |  Level 2 |   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/빛의%20경로%20사이클.swift)    | `22.06.29`  |
+[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/나머지가%201이%20되는%20수%20찾기.swift)    | `22.06.29`  |
+|   [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=swift)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/없는%20숫자%20더하기.swift)    | `22.06.21`  |
 |    K번째수                 |  Level 1 |    [🔫](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/K번째수.md)     |   |
 |    두 개 뽑아서 더하기        |  Level 1 |    [🔫](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/두%20개%20뽑아서%20더하기.md)   |   |
 |     체육복                 |  Level1 |     [🔫](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/풀이/체육복.md)   |   |
