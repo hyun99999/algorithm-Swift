@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------: |
+|   [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)               |  Level 1 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/약수의%20개수와%20덧셈.swift)    | `22.07.02`  |
 |   [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)               |  Level 1 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/음양%20더하기.swift)    | `22.07.01`  |
 [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)               |  Level 2 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/n%5E2%20배열%20자르기.swift)    | `22.07.01`  |
 [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)               |  Level 2 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/빛의%20경로%20사이클.swift)    | `22.06.29`  |
