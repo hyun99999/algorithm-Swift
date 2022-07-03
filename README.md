@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------: |
+|   [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/내적.swift)    | `22.07.03`  |
 |   [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)               |  Level 2 |   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/괄호%20회전하기.swift)    | `22.07.02`  |
 |   [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)               |  Level 2 |   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/2개%20이하로%20다른%20비트.swift)    | `22.07.02`  |
 |   [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/약수의%20개수와%20덧셈.swift)    | `22.07.02`  |
