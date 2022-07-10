@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------: |
+|   [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)               |  Level 2 |   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/프린터.swift)    | `22.07.10`  |
 |   [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)               |  Level 2 |   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/기능개발.swift)    | `22.07.09`  |
 |   [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/튜플.swift)    | `22.07.08`  |
 |   [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/모의고사.swift)    | `22.07.08`  |
