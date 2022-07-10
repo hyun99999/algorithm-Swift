@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------: |
+|   [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)               |  Level 2 |   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/삼각%20달팽이.swift)    | `22.07.10`  |
 |   [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/3진법%20뒤집기.swift)    | `22.07.10`  |
 |   [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)               |  Level 2 |   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/프린터.swift)    | `22.07.10`  |
 |   [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)               |  Level 2 |   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/기능개발.swift)    | `22.07.09`  |
