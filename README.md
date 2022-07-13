@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)               |  Level 2 |   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/방문%20길이.swift)    | `22.07.13`  |
 |   [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)               |  Level 2 |   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/타겟%20넘버.swift)    | `22.07.13`  |
 |   [부족하 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/부족한%20금액%20계산하기.swift)    | `22.07.13`  |
 |   [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/%5B1차%5D%20비밀지도.swift)    | `22.07.13`  |
