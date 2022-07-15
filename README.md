@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/%5B1차%5D%20다트%20게임.swift)    | `22.07.16`  |
 |   [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/최소직사각형.swift)    | `22.07.15`  |
 |   [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/피로도.swift)    | `22.07.14`  |
 |   [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)               |  Level 1 |   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/2016년.swift)    | `22.07.14`  |
