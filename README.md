@@ -4,8 +4,8 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
-|   [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/%5B1차%5D%20뉴스%20클러스터링.swift)    | `22.07.16`  |
-|   [두 정수 사이으 합](https://school.programmers.co.kr/learn/courses/30/lessons/12910)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/두%20정수%20사이의%20합.swift)    | `22.07.16`  |
+|   [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/%5B1차%5D%20뉴스%20클러스터링.swift)    | `22.07.17`  |
+|   [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12910)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/두%20정수%20사이의%20합.swift)    | `22.07.16`  |
 |   [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/나누어%20떨어지는%20숫자%20배열.swift)    | `22.07.16`  |
 |   [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/수식%20최대화.swift)    | `22.07.16`  |
 |   [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/%5B1차%5D%20다트%20게임.swift)    | `22.07.16`  |
