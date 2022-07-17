@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/문자열%20내%20마음대로%20정렬하기.swift)    | `22.07.17`  |
 |   [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/%5B1차%5D%20뉴스%20클러스터링.swift)    | `22.07.17`  |
 |   [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12910)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/두%20정수%20사이의%20합.swift)    | `22.07.16`  |
 |   [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/나누어%20떨어지는%20숫자%20배열.swift)    | `22.07.16`  |
