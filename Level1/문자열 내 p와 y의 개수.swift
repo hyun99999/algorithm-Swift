@@ -1,6 +1,7 @@
 import Foundation
 
 func solution(_ s:String) -> Bool {
+    /*
     let s = s.lowercased()
     var pCount: Int = 0
     var yCount: Int = 0
@@ -21,6 +22,12 @@ func solution(_ s:String) -> Bool {
     } else {
         return false
     }
+     */
+    
+    // filter 사용.
+    return s.lowercased().filter { $0 == "p" }.count == s.lowercased().filter { $0 == "y" }.count
+    
+    //
 }
 
 print(solution("pPoooyY"))
