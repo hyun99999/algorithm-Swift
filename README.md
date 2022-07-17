@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/조이스틱.swift)    | `22.07.17`  |
 |   [문자열 내 p와 y 의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/문자열%20내%20p와%20y의%20개수.swift)    | `22.07.17`  |
 |   [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/문자열%20내%20마음대로%20정렬하기.swift)    | `22.07.17`  |
 |   [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/%5B1차%5D%20뉴스%20클러스터링.swift)    | `22.07.17`  |
