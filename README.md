@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/다리를%20지나는%20트럭.swift)    | `22.07.20`  |
 |   [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/수박수박수박수박수박수%3F.swift.swift)    | `22.07.20`  |
 |   [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/서울에서%20김서방%20찾기.swift)    | `22.07.20`  |
 |   [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/조이스틱.swift)    | `22.07.17`  |
