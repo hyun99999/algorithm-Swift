@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [이상한 문자 만들기]([https://school.programmers.co.kr/learn/courses/30/lessons/12925](https://school.programmers.co.kr/learn/courses/30/lessons/12930))               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/이상한%20문자%20만들기.swift)    | `22.07.21`  |
 |   [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/문자열을%20정수로%20바꾸기.swift)    | `22.07.20`  |
 |   [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/다리를%20지나는%20트럭.swift)    | `22.07.20`  |
 |   [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/수박수박수박수박수박수%3F.swift.swift)    | `22.07.20`  |
