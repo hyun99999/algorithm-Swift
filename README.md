@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/자릿수%20더하기.swift)    | `22.07.21`  |
 |   [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/시저%20암호.swift)    | `22.07.21`  |
 |   [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/이상한%20문자%20만들기.swift)    | `22.07.21`  |
 |   [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/문자열을%20정수로%20바꾸기.swift)    | `22.07.20`  |
