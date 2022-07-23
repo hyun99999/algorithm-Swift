@@ -4,7 +4,8 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
-|   [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/자연수%20뒤집어%20배열로%20만들기.swift)    | `22.07.23`  |
+|   [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/제일%20작은%20수%20제거하기.swift)    | `22.07.23`  |
+|   [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/자연수%20뒤집어%20배열로%20만들기.swift)    | `22.07.23`  |
 |   [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/영어%20끝말잇기.swift)    | `22.07.22`  |
 |   [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/정수%20내림차순으로%20배치하기.swift)    | `22.07.22`  |
 |   [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/자릿수%20더하기.swift)    | `22.07.22`  |
