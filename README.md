@@ -4,7 +4,8 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
-|   [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/짝수와%20.swift)    | `22.07.24`  |
+|   [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/평균%20구하기.swift)    | `22.07.24`  |
+|   [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/짝수와%20홀수.swift)    | `22.07.24`  |
 |   [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/제일%20작은%20수%20제거하기.swift)    | `22.07.23`  |
 |   [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/자연수%20뒤집어%20배열로%20만들기.swift)    | `22.07.23`  |
 |   [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/영어%20끝말잇기.swift)    | `22.07.22`  |
