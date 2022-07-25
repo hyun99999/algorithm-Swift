@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/콜라츠%20추측.swift)    | `22.07.24`  |
 |   [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/평균%20구하기.swift)    | `22.07.24`  |
 |   [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/짝수와%20홀수.swift)    | `22.07.24`  |
 |   [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)               |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/제일%20작은%20수%20제거하기.swift)    | `22.07.23`  |
