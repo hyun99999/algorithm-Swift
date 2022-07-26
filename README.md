@@ -4,6 +4,7 @@
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12978)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/점프와%20순간%20이동.swift)    | `22.07.26`  |
 |   [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/핸드폰%20번호%20가리기.swift)    | `22.07.26`  |
 |   [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/배달.swift)    | `22.07.26`  |
 |   [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/콜라츠%20추측.swift)    | `22.07.25`  |
