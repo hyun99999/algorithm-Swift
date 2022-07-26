@@ -26,6 +26,25 @@
     // [[0,1,2], [0,2,1], [1,0,2], [1,2,0], [2,0,1], [2,1,0]]
 ```
 
+- 효율성을 위한 이진탐색
+
+```swift
+var low = 0
+var mid = 0
+var high = scores.count - 1
+            
+while low <= high {
+  mid = (low + high) / 2
+  // scores[mid] 를 포함하는 경우 low 가 아닌 high 를 빼서 result 에 추가해야 한다.
+  if scores[mid] < score {
+    low = mid + 1
+  } else {
+    high = mid - 1
+  }
+  // low 가 정답.
+}
+```
+
 > 프로그래머스
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
