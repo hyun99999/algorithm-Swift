@@ -1,4 +1,30 @@
-🫠 **Swift 알고리즘 대작전**
+🫠 ***Swift 알고리즘 대작전***
+
+> DFS : `stack, 재귀`
+
+> BFS : `queue, while 문`
+
+- combination
+```swift
+    /// index 로 조합 생성
+    func combination(_ array: [Int]) {
+        if array.count == dungeons.count {
+            combinationArray.append(array)
+            return
+        } else {
+            for i in 0..<dungeons.count {
+                if !array.contains(i) {
+                    combination(array + [i])
+                }
+            }
+        }
+    }
+    
+    combination([])
+    
+    // combinationArray
+    // [[0,1,2], [0,2,1], [1,0,2], [1,2,0], [2,0,1], [2,1,0]]
+```
 
 > 프로그래머스
 
