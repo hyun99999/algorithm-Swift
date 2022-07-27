@@ -49,6 +49,7 @@ while low <= high {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/x만큼%20간격이%20있는%20n개의%20숫자.swift)    | `22.07.27`  |
 |   [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/약수의%20합.swift)    | `22.07.27`  |
 |   [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/소수%20찾기.swift)    | `22.07.27`  |
 |   [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/문자열%20다루기%20기본.swift)    | `22.07.27`  |
