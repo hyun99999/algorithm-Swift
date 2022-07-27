@@ -49,6 +49,7 @@ while low <= high {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/약수의%20합.swift)    | `22.07.27`  |
 |   [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/소수%20찾기.swift)    | `22.07.27`  |
 |   [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/문자열%20다루기%20기본.swift)    | `22.07.27`  |
 |   [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/후보키.swift)    | `22.07.27`  |
