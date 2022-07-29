@@ -49,6 +49,7 @@ while low <= high {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/정수%20제곱근%20판별.swift)    | `22.07.28`  |
 |   [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/행렬의%20덧셈.swift)    | `22.07.27`  |
 |   [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/x만큼%20간격이%20있는%20n개의%20숫자.swift)    | `22.07.27`  |
 |   [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/약수의%20합.swift)    | `22.07.27`  |
