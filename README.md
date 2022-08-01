@@ -49,6 +49,7 @@ while low <= high {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12969)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/최대공약수와%20최소공배수.swift)    | `22.08.01`  |
 |   [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/직사각형%20별찍기.swift)    | `22.07.31`  |
 |   [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/하샤드%20수.swift)    | `22.07.30`  |
 |   [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/정수%20제곱근%20판별.swift)    | `22.07.29`  |
