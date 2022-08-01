@@ -49,6 +49,7 @@ while low <= high {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/파괴되지%20않은%20건물.swift)    | `22.08.01`  |
 |   [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/위장.swift)    | `22.08.01`  |
 |   [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/올바른%20괄호.swift)    | `22.08.01`  |
 |   [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/N개의%20최소공배수.swift)    | `22.08.01`  |
