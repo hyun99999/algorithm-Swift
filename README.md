@@ -49,6 +49,7 @@ while low <= high {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/카펫.swift)    | `22.08.03`  |
 |   [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/짝지어%20제거하기.swift)    | `22.08.03`  |
 |   [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/소수%20찾기.swift)    | `22.08.03`  |
 |   [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/블록%20이동하기.swift)    | `22.08.02`  |
