@@ -49,6 +49,7 @@ while low <= high {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/행렬의%20곱셈.swift)    | `22.08.03`  |
 |   [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/최솟값%20만들기.swift)    | `22.08.03`  |
 |   [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/카펫.swift)    | `22.08.03`  |
 |   [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/짝지어%20제거하기.swift)    | `22.08.03`  |
@@ -136,7 +137,3 @@ while low <= high {
 |   메뉴 리뉴얼              |  Level 2 |   [🛠](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/메뉴리뉴얼.playground/Contents.swift)    | `21.09.10`  |
 |   오픈채팅방               |  Level 2 |   [🛠](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/오픈채팅방.playground/Contents.swift)    | `21.10.13`  |
 |   주차 요금 계산               |  Level 2 |   [🥴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/주차%20요금%20계산.swift)    | `22.05.06`  |
-
-
-
-
