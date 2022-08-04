@@ -37,7 +37,8 @@ func solution(_ n:Int) -> Int {
     // 2칸일 때는 2가지.
     // 3칸일 때는 1칸일 때 + 2칸일 때
     // 점화식 -> d(n) = d(n - 1) + d(n - 2)
-    
+
+// 메모리때문에 fail.
 //    var dp: [Int] = Array(repeating: 0, count: n + 1)
     var dp: [Int] = [0, 1, 2]
     
