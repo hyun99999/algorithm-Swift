@@ -49,7 +49,8 @@ while low <= high {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
-|   [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/최댓값%20최솟값.swift)    | `22.08.03`  |
+|   [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/멀리뛰기.swift)    | `22.08.04`  |
+|   [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/최댓값과%20최솟값.swift)    | `22.08.04`  |
 |   [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/행렬의%20곱셈.swift)    | `22.08.03`  |
 |   [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/최솟값%20만들기.swift)    | `22.08.03`  |
 |   [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/카펫.swift)    | `22.08.03`  |
