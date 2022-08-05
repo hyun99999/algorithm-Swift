@@ -49,6 +49,7 @@ while low <= high {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/다음%20큰%20숫자.swift)    | `22.08.05`  |
 |   [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/모음사전.swift)    | `22.08.05`  |
 |   [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/가장%20큰%20정사각형%20찾기.swift)    | `22.08.05`  |
 |   [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/멀리뛰기.swift)    | `22.08.04`  |
