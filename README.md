@@ -62,6 +62,7 @@ while low <= high {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [[3차]방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/[3차]방금그곡.swift)    | `22.08.14`  |
 |   [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/스킬트리.swift)    | `22.08.14`  |
 |   [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/전력망을%20둘로%20나누기.swift)    | `22.08.14`  |
 |   [[1차]캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/[1차]캐시.swift)    | `22.08.06`  |
