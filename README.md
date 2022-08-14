@@ -45,6 +45,19 @@ while low <= high {
 }
 ```
 
+- map
+
+```swift
+.map { String($0) }
+// 자료형: [String]
+// index 로 요소에 접근하는 서브스크립트 사용 가능 O.
+
+
+.map { $0 }
+// 자료형: [String.Element]
+// index 로 요소에 접근하는 서브스크립트 사용 가능 X.
+```
+
 > 프로그래머스
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
