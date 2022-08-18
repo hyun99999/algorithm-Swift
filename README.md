@@ -71,6 +71,7 @@ let s: [String] = s.components(separatedBy: " ")
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/땅따먹기.swift)    | `22.08.19`  |
 |   [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/JadenCase%20문자열%20만들기.swift)    | `22.08.18`  |
 |   [K진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/k진수에서%20소수%20개수%20구하기.swift)    | `22.08.18`  |
 |   [[3차]방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/[3차]방금그곡.swift)    | `22.08.14`  |
