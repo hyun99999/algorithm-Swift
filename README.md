@@ -50,12 +50,12 @@ while low <= high {
 ```swift
 .map { String($0) }
 // 자료형: [String]
-// index 로 요소에 접근하는 서브스크립트 사용 가능 O.
+// index 로 요소에 접근하는 서브스크립트 사용 가능 X.
 
 
 .map { $0 }
 // 자료형: [String.Element]
-// index 로 요소에 접근하는 서브스크립트 사용 가능 X.
+// index 로 요소에 접근하는 서브스크립트 사용 가능 O.
 ```
 
 - split, components
