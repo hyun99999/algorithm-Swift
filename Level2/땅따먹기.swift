@@ -1,5 +1,7 @@
 import Foundation
 
+// 정확성 통과 O. 효율성 통과 X.
+/*
 func solution(_ land:[[Int]]) -> Int{
     // 같은 열을 연속해서 밟을 수 없는 규칙.
     // 이전 열을 기억한 뒤 land를 순회하려고 했는데,
@@ -24,6 +26,22 @@ func solution(_ land:[[Int]]) -> Int{
      
      return dp.last!.max()!
  }
+ */
+
+// 효율성 테스트 통과하기 위해서
+
+func solution(_ land:[[Int]]) -> Int{
+    var land = land
+    for i in 0..<(land.count-1) {
+        // 4열 하드코딩.
+        land[i+1][0] += max(land[i][1], land[i][2], land[i][3])
+        land[i+1][1] += max(land[i][0], land[i][2], land[i][3])
+        land[i+1][2] += max(land[i][0], land[i][1], land[i][3])
+        land[i+1][3] += max(land[i][0], land[i][1], land[i][2])
+    }
+
+    return max(land.last![0],land.last![1], land.last![2], land.last![3])
+}
 
 print(solution([[1,2,3,5],[5,6,7,8],[4,3,2,1]]))
 // 16
