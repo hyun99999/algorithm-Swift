@@ -58,6 +58,15 @@ while low <= high {
 // index 로 요소에 접근하는 서브스크립트 사용 가능 X.
 ```
 
+- split, components
+
+```swift
+let s: [String.SubSequence] = s.split(separator: " ")
+// components 를 사용하게 되면 Foundation 을 import 해주어야 합니다.
+// split 좀 더 많은 인자를 사용할 수 있다.
+let s: [String] = s.components(separatedBy: " ")
+```
+
 > 프로그래머스
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
