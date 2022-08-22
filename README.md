@@ -71,6 +71,7 @@ let s: [String] = s.components(separatedBy: " ")
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/보석%20쇼핑.swift)    | `22.08.22`  |
 |   [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/성격%20유형%20검사하기.swift)    | `22.08.22`  | 조건 분기처리 |
 |   [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/N-Queen.swift)    | `22.08.22`  | DFS |
 |   [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/땅따먹기.swift)    | `22.08.19`  |
