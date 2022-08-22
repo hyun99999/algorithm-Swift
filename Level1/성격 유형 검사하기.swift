@@ -21,29 +21,10 @@ func solution(_ survey:[String], _ choices:[Int]) -> String {
         }
     }
     
-    if choiceDictionary["R"]! >= choiceDictionary["T"]! {
-        answer += "R"
-    } else {
-        answer += "T"
-    }
-
-    if choiceDictionary["C"]! >= choiceDictionary["F"]! {
-        answer += "C"
-    } else {
-        answer += "F"
-    }
-    
-    if choiceDictionary["J"]! >= choiceDictionary["M"]! {
-        answer += "J"
-    } else {
-        answer += "M"
-    }
-    
-    if choiceDictionary["A"]! >= choiceDictionary["N"]! {
-        answer += "A"
-    } else {
-        answer += "N"
-    }
+    answer += choiceDictionary["R"]! >= choiceDictionary["T"]! ? "R" : "T"
+    answer += choiceDictionary["C"]! >= choiceDictionary["F"]! ? "C" : "F"
+    answer += choiceDictionary["J"]! >= choiceDictionary["M"]! ? "J" : "M"
+    answer += choiceDictionary["A"]! >= choiceDictionary["N"]! ? "A" : "N"
     
     return answer
 }
