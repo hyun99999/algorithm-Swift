@@ -71,7 +71,7 @@ let s: [String] = s.components(separatedBy: " ")
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/보석%20쇼핑.swift)    | `22.08.22`  |
+|   [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/보석%20쇼핑.swift)    | `22.08.22`  | 투 포인터 |
 |   [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/성격%20유형%20검사하기.swift)    | `22.08.22`  | 조건 분기처리 |
 |   [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/N-Queen.swift)    | `22.08.22`  | DFS |
 |   [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/땅따먹기.swift)    | `22.08.19`  |
@@ -91,8 +91,8 @@ let s: [String] = s.components(separatedBy: " ")
 |   [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/카펫.swift)    | `22.08.03`  |
 |   [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/짝지어%20제거하기.swift)    | `22.08.03`  |
 |   [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/소수%20찾기.swift)    | `22.08.03`  |
-|   [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/블록%20이동하기.swift)    | `22.08.02`  |
-|   [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/파괴되지%20않은%20건물.swift)    | `22.08.01`  |
+|   [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/블록%20이동하기.swift)    | `22.08.02`  |
+|   [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/파괴되지%20않은%20건물.swift)    | `22.08.01`  |
 |   [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/위장.swift)    | `22.08.01`  |
 |   [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/올바른%20괄호.swift)    | `22.08.01`  |
 |   [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/N개의%20최소공배수.swift)    | `22.08.01`  |
