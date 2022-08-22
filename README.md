@@ -71,6 +71,7 @@ let s: [String] = s.components(separatedBy: " ")
 
 |    문제                   |   난이도   |   풀이   |  날짜   |
 | :----------------------: | :------: | :-------: |:-------:|
+|   [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/성격%20유형%20검사하기.swift)    | `22.08.22`  |
 |   [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/N-Queen.swift)    | `22.08.22`  |
 |   [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/땅따먹기.swift)    | `22.08.19`  |
 |   [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)               |  Level 2|   [🏋️‍♀️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/JadenCase%20문자열%20만들기.swift)    | `22.08.18`  |
