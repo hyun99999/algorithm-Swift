@@ -71,6 +71,7 @@ let s: [String] = s.components(separatedBy: " ")
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/합승%20택시%20요금.swift)    | `22.08.29`  | 플로이드-워셜 |
 |   [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/사라지는%20발판.swift)    | `22.08.27`  | 완전 탐색 |
 |   [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/N으로%20표현.swift)    | `22.08.23`  | DFS, DP |
 |   [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)               |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/두%20큐%20합%20같게%20만들기.swift)    | `22.08.22`  | 투 포인터 |
