@@ -20,3 +20,14 @@ print(solution(3))
 
 print(solution(5))
 // 5
+
+// 재귀 호출은 언어마다 재귀 호출을 할 수 있는 횟수가 정해져 있기 때문에 이 횟수를 넘어서 호출하면 런타임 에러.
+/*
+func solution(_ n: Int) {
+  if ( n <= 1 ) {
+    return n;
+  }
+   
+  return fibonacci(n-1) + fibonacci(n-2);
+}
+*/
