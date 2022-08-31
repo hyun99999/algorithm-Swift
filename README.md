@@ -71,6 +71,7 @@ let s: [String] = s.components(separatedBy: " ")
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/카드%20짝%20맞추기.swift)    | `22.09.01`  |  |
 |   [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/광고%20삽입.swift)    | `22.08.31`  |  |
 |   [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/합승%20택시%20요금.swift)    | `22.08.29`  | 플로이드-워셜 |
 |   [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/사라지는%20발판.swift)    | `22.08.27`  | 완전 탐색 |
