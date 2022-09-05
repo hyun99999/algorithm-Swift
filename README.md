@@ -65,6 +65,7 @@ for index in 0..<files.count {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [[3차]파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)               |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/[3차]파일명%정렬.swift)    | 
 |   [[3차]n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)               |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/[3차]n진수%20게임.swift)    | `22.09.02`  |  |
 |   [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)               |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/[1차]%20프렌즈4블록.swift)    | `22.09.01`  | 구현, 게임 |
 |   [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)               |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/피보나치%20수.swift)    | `22.09.01`  | DP |
