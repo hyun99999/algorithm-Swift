@@ -45,19 +45,6 @@ while low <= high {
 }
 ```
 
-- map
-
-```swift
-.map { String($0) }
-// 자료형: [String]
-// index 로 요소에 접근하는 서브스크립트 사용 가능 X.
-
-
-.map { $0 }
-// 자료형: [String.Element]
-// index 로 요소에 접근하는 서브스크립트 사용 가능 O.
-```
-
 - split, components
 
 ```swift
@@ -65,6 +52,13 @@ let s: [String.SubSequence] = s.split(separator: " ")
 // components 를 사용하게 되면 Foundation 을 import 해주어야 합니다.
 // split 좀 더 많은 인자를 사용할 수 있다.
 let s: [String] = s.components(separatedBy: " ")
+
+let numbers: CharacterSet = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+    
+for index in 0..<files.count {
+    // split 이 아닌 components 는 CharacterSet 을 파라미터로 전달받기 때문에 이런 경우에 좋음.
+    let fileComponents: [String] = files[index].components(separatedBy: numbers).filter { $0 != "" }
+}
 ```
 
 > 프로그래머스
