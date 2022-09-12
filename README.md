@@ -65,7 +65,7 @@ for index in 0..<files.count {
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/네트워크.swift)    | `22.09.12`  | 네트워크 |
+|   [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/네트워크.swift)    | `22.09.12`  | DFS |
 |   [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/이중우선순위큐.swift)    | `22.09.09`  | 이중우선순위큐 |
 |   [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)               |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/예상%20대진표swift)    | `22.09.08`  |  |
 |   [[3차]압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)               |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/[3차]압축.swift)    | `22.09.07`  |  |
