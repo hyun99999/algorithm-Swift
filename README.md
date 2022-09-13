@@ -64,14 +64,17 @@ for index in 0..<files.count {
 - dictionary sort
 
 ```swift
-// ✅ dictionary 를 정렬하기 위해서 Array 로 변환 후 정렬.
+// ✅ dictionary 를 정렬하기 위해서 Array 로 변환 후 오름차순 정렬.
 let sortedGenres: [String] = Array(dictionary.keys).sorted(by: <)
+// 위의 코드는 keys 를 기준으로 정렬하게 된다.
+let sortedGenres: [String] = Array(dictionary.keys).sorted(by: dictionary[$0] < dictionary[$1])
 ```
 
 > 프로그래머스
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/43163)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/베스트앨범.swift)    | `22.09.13`  | 해시 |
 |   [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/단어%20변환.swift)    | `22.09.13`  | BFS |
 |   [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/네트워크.swift)    | `22.09.12`  | DFS |
 |   [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/이중우선순위큐.swift)    | `22.09.09`  | 이중우선순위큐 |
