@@ -61,6 +61,13 @@ for index in 0..<files.count {
 }
 ```
 
+- dictionary sort
+
+```swift
+// ✅ dictionary 를 정렬하기 위해서 Array 로 변환 후 정렬.
+let sortedGenres: [String] = Array(dictionary.keys).sorted(by: <)
+```
+
 > 프로그래머스
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
