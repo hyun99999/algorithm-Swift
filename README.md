@@ -74,7 +74,8 @@ let sortedGenres: [String] = Array(dictionary.keys).sorted(by: dictionary[$0] < 
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/43163)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/베스트앨범.swift)    | `22.09.13`  | 해시 |
+|   [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/숫자%20게임.swift)    | `22.09.13`  |  |
+|   [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/베스트앨범.swift)    | `22.09.13`  | 해시 |
 |   [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/단어%20변환.swift)    | `22.09.13`  | BFS |
 |   [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/네트워크.swift)    | `22.09.12`  | DFS |
 |   [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/이중우선순위큐.swift)    | `22.09.09`  | 이중우선순위큐 |
