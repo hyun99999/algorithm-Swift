@@ -74,6 +74,7 @@ let sortedGenres: [String] = Array(dictionary.keys).sorted(by: dictionary[$0] < 
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/기지국%20설치.swift)    | `22.09.14`  |  |
 |   [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/불량%20사용자.swift)    | `22.09.13`  | 조합 |
 |   [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/숫자%20게임.swift)    | `22.09.13`  |  |
 |   [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/베스트앨범.swift)    | `22.09.13`  | 해시 |
