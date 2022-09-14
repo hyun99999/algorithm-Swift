@@ -7,33 +7,40 @@ func solution(_ stones:[Int], _ k:Int) -> Int {
     // 대신 k 만큼 최대로 여러칸 이동 가능.
     // 최대 몇 명까지 건널 수 있는가?
     
-    var stones = stones
-    
     // ✅ 아이디어 : 배열의 크기는 200,000 이지만, 원소의 값이 200,000,000 이기 때문에 이를 고려해야 효율성 통과 가능.
     // 200,000,000 값을 이진탐색을 통해 통과 가능한 값을 구하기.
-    
-    // 이진탐색
     
     var low: Int = 1
     var high: Int = 200000000
     
-    while low <= high {
+    // ✅ 이진탐색
+    while low < high {
         let mid: Int = (low + high) / 2
-            
+        
         var count: Int = 0
-        var maxCount: Int = 0
-        for stone in stones {
-            if stone - mid <= 0 {
+        // var maxCount: Int = 0
+        // 🔥 이렇게 사용하면 대략적으로 300ms 걸림(사용하지 않으면 30ms)
+//        for stone in stones {
+//
+//        }
+        // 🔥 효율성을 위해 다음과 같이 사용.
+        for i in 0..<stones.count {
+            if stones[i] - mid <= 0 {
                 count += 1
+                
+                if count >= k {
+                    break
+                }
             } else {
                 count = 0
             }
-            maxCount = max(count, maxCount)
+            // 🔥 max 를 사용해서 효율성에서 시간초과.
+            //            maxCount = max(count, maxCount)
         }
         
-        if maxCount >= k {
+        if count >= k {
             // 좌측
-            high = mid - 1
+            high = mid
         } else {
             // 우측
             low = mid + 1
