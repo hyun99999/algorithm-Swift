@@ -74,7 +74,7 @@ let sortedGenres: [String] = Array(dictionary.keys).sorted(by: dictionary[$0] < 
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/여행경로.swift)    | `22.09.20`  |  |
+|   [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/여행경로.swift)    | `22.09.20`  | DFS |
 |   [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/가장%20먼%20노드.swift)    | `22.09.17`  |  |
 |   [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/징검다리%20건너기.swift)    | `22.09.14`  | 이진탐색 |
 |   [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/기지국%20설치.swift)    | `22.09.14`  |  |
