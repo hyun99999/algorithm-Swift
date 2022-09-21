@@ -74,7 +74,7 @@ let sortedGenres: [String] = Array(dictionary.keys).sorted(by: dictionary[$0] < 
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/표%20편집.swift)    | `22.09.21`  |  |
+|   [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/표%20편집.swift)    | `22.09.21`  | linked list |
 |   [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/디스크%20컨트롤러.swift)    | `22.09.21`  |  |
 |   [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/여행경로.swift)    | `22.09.20`  | DFS |
 |   [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/가장%20먼%20노드.swift)    | `22.09.17`  |  |
