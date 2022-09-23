@@ -4,6 +4,26 @@
 
 > BFS : `queue, while 문`
 
+- 시간 다루기
+```swift
+/// 초 단위로 시간을 변환.
+func changeToSecond(_ time: String) -> Int {
+    let times: [Int] = time.components(separatedBy: ":").map { Int($0)! }
+    
+    return times[0] * 3600 + times[1] * 60 + times[2]
+}
+
+/// 초 단위를 시간으로 변환.
+func changeToTime(_ seconds: Int) -> String {
+    return "\(addZero(to: seconds / 3600)):\(addZero(to: seconds % 3600 / 60)):\(addZero(to: seconds % 60))"
+}
+
+/// 한 자릿수 시간에 0 추가
+func addZero(to number: Int) -> String {
+    return number < 10 ? "0\(number)" : "\(number)"
+}
+```
+
 - combination
 ```swift
     /// index 로 조합 생성
