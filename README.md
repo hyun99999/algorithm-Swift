@@ -87,7 +87,8 @@ for index in 0..<files.count {
 // ✅ dictionary 를 정렬하기 위해서 Array 로 변환 후 오름차순 정렬.
 let sortedGenres: [String] = Array(dictionary.keys).sorted(by: <)
 // 위의 코드는 keys 를 기준으로 정렬하게 된다.
-let sortedGenres: [String] = Array(dictionary.keys).sorted(by: dictionary[$0] < dictionary[$1])
+// 아래의 코드는 value 르 기준으로 정렬하게 된다.
+let sortedGenres: [String] = Array(dictionary.keys).sorted { dictionary[$0] < dictionary[$1] }
 ```
 
 > 프로그래머스
