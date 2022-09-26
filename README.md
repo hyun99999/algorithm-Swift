@@ -95,6 +95,7 @@ let sortedGenres: [String] = Array(dictionary.keys).sorted { dictionary[$0] < di
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [가장 긴 팸린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/가장%20긴%20팸린드롬.swift)    | `22.09.23`  |  |
 |   [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/순위.swift)    | `22.09.23`  |  |
 |   [[1차]셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/[1차]셔틀버스.swift)    | `22.09.23`  | 시간다루기 |
 |   [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/스티커%20모으기(2).swift)    | `22.09.23`  | DP |
