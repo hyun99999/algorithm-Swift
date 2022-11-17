@@ -67,3 +67,29 @@ func getPower(of num: Int) -> Int {
 print(solution(10, 3, 2))
 // 21
 
+
+// 약수를 구하는 방법으로
+// 각 약수를 구하는 것이 아닌. 에라토스테네스의 체 느낌으로
+// 작은 수부터 배수에 1씩 증가시켜서 약수의 갯수를 채움.
+
+import Foundation
+
+func solution(_ number:Int, _ limit:Int, _ power:Int) -> Int {
+    var attack = [Int](repeating: 0, count: number+1)
+
+    for i in 1...number {
+        var c = i
+
+        while c <= number {
+            attack[c] += 1
+            // 2 -> 2,4,6,8...
+            // 3 -> 3,6,9,12...
+            c += i
+        }
+    }
+    attack = attack.map { $0 > limit ? power : $0 }
+    return attack.reduce(0, +)
+}
+
+// 출처: https://school.programmers.co.kr/learn/courses/30/lessons/136798/solution_groups?language=swift
+// PotatoLife 님의 코드.
