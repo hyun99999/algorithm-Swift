@@ -24,25 +24,25 @@ func addZero(to number: Int) -> String {
 }
 ```
 
-- combination
+- permutation(순열)
 ```swift
     /// index 로 조합 생성
-    func combination(_ array: [Int]) {
+    func permutation(_ array: [Int]) {
         if array.count == dungeons.count {
-            combinationArray.append(array)
+            permutationArray.append(array)
             return
         } else {
             for i in 0..<dungeons.count {
                 if !array.contains(i) {
-                    combination(array + [i])
+                    permutation(array + [i])
                 }
             }
         }
     }
     
-    combination([])
+    permutation([])
     
-    // combinationArray
+    // permutationArray
     // [[0,1,2], [0,2,1], [1,0,2], [1,2,0], [2,0,1], [2,1,0]]
 ```
 
