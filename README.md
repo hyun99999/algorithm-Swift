@@ -95,6 +95,7 @@ let sortedGenres: [String] = Array(dictionary.keys).sorted { dictionary[$0] < di
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/과일%20장수.swift)    | `22.11.17`  | stride 사용 |
 |   [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/기사단원의%20무기.swift)    | `22.11.17`  | 약수 구하기(제곱근) |
 |   [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/숫자%20짝꿍.swift)    | `22.11.17`  |  |
 |   [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/콜라%20문제.swift)    | `22.11.16`  |  |
