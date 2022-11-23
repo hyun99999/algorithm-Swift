@@ -91,10 +91,18 @@ let sortedGenres: [String] = Array(dictionary.keys).sorted(by: <)
 let sortedGenres: [String] = Array(dictionary.keys).sorted { dictionary[$0] < dictionary[$1] }
 ```
 
+- array slicing
+
+```swift
+// 아래와 같이 Array 를 사용하여 배열을 자를 수 있다.
+Array(stack[0..<(stack.count - 4)])
+```
+
 > 프로그래머스
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/햄버거%20만들기.swift)    | `22.11.23`  | Array[] |
 |   [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/과일%20장수.swift)    | `22.11.17`  | stride 사용 |
 |   [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/기사단원의%20무기.swift)    | `22.11.17`  | 약수 구하기(제곱근) |
 |   [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/숫자%20짝꿍.swift)    | `22.11.17`  |  |
