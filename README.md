@@ -102,6 +102,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/연속%20부분%20수열%20합의%20개수.swift)    | `22.11.25`  | Array slice |
 |   [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/옹알이(2).swift)    | `22.11.23`  | Array slice |
 |   [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/햄버거%20만들기.swift)    | `22.11.23`  | Array slice |
 |   [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/과일%20장수.swift)    | `22.11.17`  | stride 사용 |
