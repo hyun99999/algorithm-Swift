@@ -102,6 +102,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [문자열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/문자열%20자르기.swift)    | `22.12.06`  |  |
 |   [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/귤%20고르기.swift)    | `22.11.25`  | dictionary 초기화 |
 |   [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/131701)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/명예의%20전당(1).swift)    | `22.11.25`  |  |
 |   [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/연속%20부분%20수열%20합의%20개수.swift)    | `22.11.25`  |  |
