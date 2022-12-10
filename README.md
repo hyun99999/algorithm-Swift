@@ -102,6 +102,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/택배상자.swift)    | `22.12.10`  |  |
 |   [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/롤케이크%20자르기.swift)    | `22.12.09`  |  |
 |   [문자열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/문자열%20자르기.swift)    | `22.12.06`  |  |
 |   [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/귤%20고르기.swift)    | `22.11.25`  | dictionary 초기화 |
