@@ -102,7 +102,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/섬%20연결하기.swift)    | `22.12.13`  |  |
+|   [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/섬%20연결하기.swift)    | `22.12.13`  | 최소 신장 트리(크루스칼, 프림) |
 |   [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/가장%20가까운%20같은%20글자.swift)    | `22.12.10`  | dictionary 초기화 |
 |   [할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/할인행사.swift)    | `22.12.10`  |  |
 |   [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/택배상자.swift)    | `22.12.10`  |  |
