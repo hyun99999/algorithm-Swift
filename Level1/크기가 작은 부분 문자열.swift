@@ -8,7 +8,7 @@ func solution(_ t:String, _ p:String) -> Int {
     
     var answer: Int = 0
     
-    for i in 0..<t.count - number {
+    for i in 0...t.count - number {
         let slicedT: [Int] = Array(t[i..<(i + number)])
         var joinedT: String = ""
         slicedT.forEach { number in
@@ -22,8 +22,9 @@ func solution(_ t:String, _ p:String) -> Int {
     
     return answer
 }
-// 실패. 36.8 / 100.0
 
 
 print(solution("3141592", "271"))
 // 2
+print(solution("10203", "15"))
+// 3
