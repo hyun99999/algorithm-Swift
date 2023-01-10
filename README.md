@@ -102,6 +102,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/개인정보%20수집%20유효기간.swift)    | `23.01.11`  |  |
 |   [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/크기가%20작은%20부분문자열.swift)    | `23.01.10`  |  |
 |   [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/쿼드압축%20후%20개수%20세기.swift)    | `22.12.14`  |  |
 |   [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/섬%20연결하기.swift)    | `22.12.13`  | MST(크루스칼, 프림) |
