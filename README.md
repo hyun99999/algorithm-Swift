@@ -102,6 +102,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/풍선%20터트리기.swift)    | `23.01.13`  | 다이나믹 프로그래밍 |
 |   [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/혼자%20놀기의%20달인.swift)    | `23.01.13`  |  |
 |   [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/점%20찍기.swift)    | `23.01.12`  |  |
 |   [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/개인정보%20수집%20유효기간.swift)    | `23.01.11`  |  |
