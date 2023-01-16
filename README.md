@@ -102,6 +102,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [마법의 엘리베이터(https://school.programmers.co.kr/learn/courses/30/lessons/148653)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/마법의%20엘리베이터.swift)    | `23.01.17`  |  |
 |   [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/숫자%20카드%20나누기.swift)    | `23.01.13`  |  |
 |   [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/풍선%20터트리기.swift)    | `23.01.13`  | 다이나믹 프로그래밍 |
 |   [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/혼자%20놀기의%20달인.swift)    | `23.01.13`  |  |
