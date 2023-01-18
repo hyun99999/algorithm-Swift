@@ -102,6 +102,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/교점에%별%20만들기.swift)    | `23.01.18`  | 식 세우고 풀기 |
 |   [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/디펜스%게임.swift)    | `23.01.18`  | 파라메트릭 서치(이진탐색) - 시간초과 |
 |   [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/마법의%20엘리베이터.swift)    | `23.01.17`  |  |
 |   [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/숫자%20카드%20나누기.swift)    | `23.01.13`  |  |
