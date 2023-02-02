@@ -98,6 +98,12 @@ let sortedGenres: [String] = Array(dictionary.keys).sorted { dictionary[$0] < di
 Array(stack[0..<(stack.count - 4)])
 ```
 
+> 백준
+
+|    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
+| :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [회의실 배정](https://www.acmicpc.net/problem/1931)             |  실버1 |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver2/회의실%20배정.swift)    | `23.02.03`  | 그리디 |
+
 > 프로그래머스
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
