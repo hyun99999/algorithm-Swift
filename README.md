@@ -102,8 +102,9 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [회의실 배정](https://www.acmicpc.net/problem/1931)             |  실버1 |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver1/회의실%20배정.swift)    | `23.02.03`  | 그리디 |
-|   [주유소](https://www.acmicpc.net/problem/13305)             |  실버1 |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver3/주유소.swift)    | `23.02.03`  | 그리디 |
+|   [회의실 배정](https://www.acmicpc.net/problem/1931)             |  실버1 |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/회의실%20배정.swift)    | `23.02.03`  | 그리디 |
+|   [주유소](https://www.acmicpc.net/problem/13305)             |  실버3 |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/주유소.swift)    | `23.02.03`  | 그리디 |
+|   [에너지 드링크](https://www.acmicpc.net/problem/20115)             |  실버3 |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/에너지%20드링크.swift)    | `23.02.03`  | 그리디 |
 
 > 프로그래머스
 
