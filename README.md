@@ -102,9 +102,9 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [회의실 배정](https://www.acmicpc.net/problem/1931)             |  실버1 |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/회의실%20배정.swift)    | `23.02.03`  | 그리디 |
-|   [주유소](https://www.acmicpc.net/problem/13305)             |  실버3 |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/주유소.swift)    | `23.02.03`  | 그리디 |
-|   [에너지 드링크](https://www.acmicpc.net/problem/20115)             |  실버3 |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/에너지%20드링크.swift)    | `23.02.03`  | 그리디 |
+|   [에너지 드링크](https://www.acmicpc.net/problem/20115)             |  <img src="https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/에너지%20드링크.swift)    | `23.02.03`  | 그리디 |
+|   [주유소](https://www.acmicpc.net/problem/13305)             |  <img src="https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/주유소.swift)    | `23.02.03`  | 그리디 |
+|   [회의실 배정](https://www.acmicpc.net/problem/1931)             |  <img src="https://camo.githubusercontent.com/f9fbfc34970ea19a732149ee3f1afc3fcb96309a8d182ef157d724d6eefd1973/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31302e737667" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/회의실%20배정.swift)    | `23.02.03`  | 그리디 |
 
 > 프로그래머스
 
