@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [강의실 배정](https://www.acmicpc.net/problem/11000)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/강의실%20배정.swift)    | `23.02.24`  | 그리디 |
 |   [최소 회의실 개수](https://www.acmicpc.net/problem/19598)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/최소%20회의실%20개수.swift)    | `23.02.24`  | 그리디 |
 |   [행복 유치원](https://www.acmicpc.net/problem/13164)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/행복%20유치원.swift)    | `23.02.24`  | 그리디 |
 |   [서강그라운드](https://www.acmicpc.net/problem/14938)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/서강그라운드.swift)    | `23.02.23`  | 플로이드 워셜, 최단 거리 |
