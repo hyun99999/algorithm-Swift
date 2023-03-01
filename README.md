@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [배](https://www.acmicpc.net/problem/1092)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/배.swift)    | `23.03.01`  | 그리디 |
 |   [숨바꼭질2](https://www.acmicpc.net/problem/12851)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/숨바꼭질2.swift)    | `23.02.24`  | BFS, 최단 거리 |
 |   [가장 긴 짝수 연속한 부분 수열(small)](https://www.acmicpc.net/problem/22857)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/가장%20긴%20짝수%20연속한%20부분%20수열(small).swift)    | `23.02.24`  | 투포인터 |
 |   [센서](https://www.acmicpc.net/problem/2212)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/센서.swift)    | `23.02.24`  | 그리디 |
