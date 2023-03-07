@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [발전소 설치](https://www.acmicpc.net/problem/1277)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/발전소%20설치.swift)    | `23.03.07`  | 그리디 |
 |   [꿀 따기](https://www.acmicpc.net/problem/21758)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/꿀%20따기.swift)    | `23.03.06`  | 그리디 |
 |   [회전 초밥](https://www.acmicpc.net/problem/2531)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/회전%20초밥.swift)    | `23.03.06`  | 투포인터 |
 |   [가장 긴 짝수 연속한 부분 수열(large)](https://www.acmicpc.net/problem/22862)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/가장%20긴%20짝수%20연속한%20부분%20수열(large).swift)    | `23.03.05`  | 투 포인터 |
