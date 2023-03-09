@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [지름길](https://www.acmicpc.net/problem/1446)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/지름길.swift)    | `23.03.08`  | 다익스트라, 최단거리 |
 |   [친구](https://www.acmicpc.net/problem/1058)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/친구.swift)    | `23.03.08`  | 플로이드-워셜, 최단거리 |
 |   [볼 모으기](https://www.acmicpc.net/problem/17615)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/볼%20모으기.swift)    | `23.03.08`  | 그리디 |
 |   [우체국](https://www.acmicpc.net/problem/2141)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/우체국.swift)    | `23.03.08`  | 그리디 |
