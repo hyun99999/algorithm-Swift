@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [주식](https://www.acmicpc.net/problem/11501)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/주식.swift)    | `23.03.18`  | 그리디 |
 |   [행렬](https://www.acmicpc.net/problem/1080)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/행렬.swift)    | `23.03.10`  | 그리디 |
 |   [아기상어](https://www.acmicpc.net/problem/16236)       |   <img src="https://static.solved.ac/tier_small/14.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/아기상어.swift)    | `23.03.10`  | bfs |
 |   [나무 자르기](https://www.acmicpc.net/problem/2805)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/나무%20자르기.swift)    | `23.03.09`  | 파라메트릭 서치 |
