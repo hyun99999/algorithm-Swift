@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/우리집엔%20도서관이%20있어.swift)    | `23.03.20`  | 그리디 |
 |   [수리공 항승](https://www.acmicpc.net/problem/1449)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/수리공%20항승.swift)    | `23.03.19`  | 그리디 |
 |   [주식](https://www.acmicpc.net/problem/11501)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/주식.swift)    | `23.03.18`  | 그리디 |
 |   [행렬](https://www.acmicpc.net/problem/1080)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/행렬.swift)    | `23.03.10`  | 그리디 |
