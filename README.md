@@ -104,6 +104,8 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [5차 전직](https://www.acmicpc.net/problem/16112)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/5차%20전직.swift)    | `23.03.22`  | 그리디 |
+|   [초콜릿 식사](https://www.acmicpc.net/problem/2885)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/초콜릿%20식사.swift)    | `23.03.22`  | 그리디 |
 |   [운동](https://www.acmicpc.net/problem/1956)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/운동.swift)    | `23.03.21`  | 플로이드, 최단거리 |
 |   [플로이드](https://www.acmicpc.net/problem/11404)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/플로이드.swift)    | `23.03.21`  | 플로이드, 최단거리 |
 |   [회문](https://www.acmicpc.net/problem/17609)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/회문.swift)    | `23.03.21`  | 투포인터 |
