@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [방탈출](https://www.acmicpc.net/problem/15729)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/방탈출.swift)    | `23.03.28`  | 그리디 |
 |   [통나무 건너뛰기](https://www.acmicpc.net/problem/11497)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/통나무%20건너뛰기.swift)    | `23.03.22`  | 그리디 |
 |   [5차 전직](https://www.acmicpc.net/problem/16112)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/5차%20전직.swift)    | `23.03.22`  | 그리디 |
 |   [초콜릿 식사](https://www.acmicpc.net/problem/2885)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/초콜릿%20식사.swift)    | `23.03.22`  | 그리디 |
