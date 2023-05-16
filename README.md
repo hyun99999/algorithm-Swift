@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [친구비](https://www.acmicpc.net/problem/16562)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/친구비.swift)    | `23.05.16`  | union-find |
 |   [카드 합체 놀이](https://www.acmicpc.net/problem/15903)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/카드%20합체%20놀이.swift)    | `23.03.28`  | 그리디 |
 |   [방탈출](https://www.acmicpc.net/problem/15729)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/방탈출.swift)    | `23.03.28`  | 그리디 |
 |   [통나무 건너뛰기](https://www.acmicpc.net/problem/11497)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/통나무%20건너뛰기.swift)    | `23.03.22`  | 그리디 |
