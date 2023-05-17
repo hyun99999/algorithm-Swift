@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [PPAP](https://www.acmicpc.net/problem/16120)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/PPAP.swift)    | `23.05.17`  | 스택, suffix |
 |   [카드 구매하기](https://www.acmicpc.net/problem/11052)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/카드%20구매하기.swift)    | `23.05.17`  | DP |
 |   [친구비](https://www.acmicpc.net/problem/16562)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/친구비.swift)    | `23.05.16`  | union-find |
 |   [카드 합체 놀이](https://www.acmicpc.net/problem/15903)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/카드%20합체%20놀이.swift)    | `23.03.28`  | 그리디 |
