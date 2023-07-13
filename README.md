@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [단지번호붙이기](https://www.acmicpc.net/problem/2667)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/단지번호붙이기.swift)    | `23.07.13`  | BFS |
 |   [미로 탐색](https://www.acmicpc.net/problem/2178)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/미로%20탐색.swift)    | `23.07.13`  | BFS,최단경로 |
 |   [무한 수열](https://www.acmicpc.net/problem/1351)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/무한%20.swift)    | `23.05.18`  | dp, dfs |
 |   [PPAP](https://www.acmicpc.net/problem/16120)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/PPAP.swift)    | `23.05.17`  | 스택, suffix |
