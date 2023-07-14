@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [유기농 배추](https://www.acmicpc.net/problem/1012)       |   <img src="https://static.solved.ac/tier_small/19.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/유기농%20배추.swift)    | `23.07.13`  | DFS |
 |   [바이러스](https://www.acmicpc.net/problem/2606)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/바이러스.swift)    | `23.07.13`  | DFS |
 |   [단지번호붙이기](https://www.acmicpc.net/problem/2667)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/단지번호붙이기.swift)    | `23.07.13`  | BFS |
 |   [미로 탐색](https://www.acmicpc.net/problem/2178)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/미로%20탐색.swift)    | `23.07.13`  | BFS,최단경로 |
