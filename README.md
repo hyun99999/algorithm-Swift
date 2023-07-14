@@ -164,6 +164,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [달리기 경주]https://school.programmers.co.kr/learn/courses/30/lessons/178871)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/달리기%20경주.swift)    | `23.07.14`  | 딕셔너리 |
 |   [추억 점수]https://school.programmers.co.kr/learn/courses/30/lessons/176963)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/추억%20점수.swift)    | `23.07.14`  |  |
 |   [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369?language=swift)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/택배%20배달과%20수거하기.swift)    | `23.01.20`  |  |
 |   [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/우박수열%20정적분.swift)    | `23.01.20`  | 문제해석 |
