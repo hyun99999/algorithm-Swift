@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [안전 영역](https://www.acmicpc.net/problem/2468)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/안전%20영역.swift)    | `23.07.16`  | DFS |
 |   [연결 요소의 개수](https://www.acmicpc.net/problem/1260)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/연결%20요소의%20개수.swift)    | `23.07.16`  | DFS |
 |   [DFS와 BFS](https://www.acmicpc.net/problem/1260)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/DFS와%20BFS.swift)    | `23.07.16`  | DFS,BFS |
 |   [감시 피하기](https://www.acmicpc.net/problem/18428)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/감시%20피하기.swift)    | `23.07.16`  | DFS, 조합, 완전탐색 |
