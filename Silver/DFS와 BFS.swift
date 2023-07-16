@@ -65,3 +65,15 @@ print(dfsAnswer.map { String($0) }.joined(separator: " "))
 
 bfs(nmv[2])
 print(bfsAnswer.map { String($0) }.joined(separator: " "))
+
+/*
+ 4 5 1
+ 1 2
+ 1 3
+ 1 4
+ 2 4
+ 3 4
+ */
+
+// 1 2 4 3
+// 1 2 3 4
