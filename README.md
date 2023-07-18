@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [Z](https://www.acmicpc.net/problem/1074)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/Z.swift)    | `23.07.18`  | 분할정복 |
 |   [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/케빈%20베이컨의%206단계%20법칙.swift)    | `23.07.18`  | 플로이드워셜 |
 |   [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/가장%20가까운%20세%20사람의%20심리적%20거리.swift)    | `23.07.18`  | 조합,DFS,완전탐색,비둘기집원리 |
 |   [쉬운 최단경로](https://www.acmicpc.net/problem/14940)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/쉬운%20최단경로.swift)    | `23.07.17`  | BFS |
