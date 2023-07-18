@@ -86,3 +86,17 @@ for _ in 0..<t {
     dfs(0, 0)
     print(answer)
 }
+
+*/
+3
+3
+ENTJ INTP ESFJ
+4
+ESFP ESFP ESFP ESFP
+5
+INFP INFP ESTP ESTJ ISTJ
+/*
+
+// 8
+// 0
+// 4
