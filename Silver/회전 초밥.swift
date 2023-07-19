@@ -34,6 +34,10 @@ var answer: Int = 0
 for i in 0..<k {
     types[array[i], default: 0] += 1
 }
+
+// 🚨 23.7.3 재채점.
+types[c, default: 0] += 1
+
 answer = types.count
 
 for i in 0..<n - 1 {
@@ -46,11 +50,21 @@ for i in 0..<n - 1 {
     let end: Int = (i + k) % n
     types[array[end], default: 0] += 1
     
-    if types[c] == nil {
-        answer = max(answer, types.count + 1)
-    } else {
-        answer = max(answer, types.count)
-    }
+    answer = max(answer, types.count)
 }
 
 print(answer)
+
+/*
+ 8 4 3 4
+ 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 3
+ */
+
+// 4
