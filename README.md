@@ -104,6 +104,8 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [토마토(7576)](https://www.acmicpc.net/problem/7576)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/토마토(7576).swift)    | `23.07.19`  | BFS |
+|   [토마토(7569)](https://www.acmicpc.net/problem/7569)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/토마토(7569).swift)    | `23.07.19`  | BFS |
 |   [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/구간%20합%20구하기%205.swift)    | `23.07.19`  | 구간합 |
 |   [리모컨](https://www.acmicpc.net/problem/1107)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/리모컨.swift)    | `23.07.18`  | 투포인터 |
 |   [AC](https://www.acmicpc.net/problem/5430)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/AC.swift)    | `23.07.18`  | 투포인터 |
