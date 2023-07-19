@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/구간%20합%20구하기%205.swift)    | `23.07.19`  | 구간합 |
 |   [리모컨](https://www.acmicpc.net/problem/1107)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/리모컨.swift)    | `23.07.18`  | 투포인터 |
 |   [AC](https://www.acmicpc.net/problem/5430)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/AC.swift)    | `23.07.18`  | 투포인터 |
 |   [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/헌내기는%20친구가%20필요해.swift)    | `23.07.18`  | dfs |
