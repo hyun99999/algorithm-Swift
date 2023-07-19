@@ -25,17 +25,17 @@ for _ in 0..<t {
     // -> 다음단계에 무엇을 기억해야함.
     // DP
     
-    var dp: [[Int]] = Array(repeating: Array(repeating: 0, count: n), count: n)
-    dp[0][0] = score[0][0]
-    dp[1][0] = score[1][0]
+    var dp: [[Int]] = Array(repeating: Array(repeating: 0, count: n), count: 2)
     
     if n == 1 {
-        answer.append(max(dp[0][0], dp[1][0]))
+        answer.append(max(score[0][0], score[1][0]))
+    } else if n == 2 {
+        answer.append(max(score[0][1] + score[1][0], score[0][0] + score[1][1]))
     } else {
-        // 점화식
         dp[0][0] = score[0][0]
         dp[1][0] = score[1][0]
         
+        // 점화식
         if n > 1 {
             dp[0][1] = score[1][0] + score[0][1]
             dp[1][1] = score[0][0] + score[1][1]
@@ -43,7 +43,6 @@ for _ in 0..<t {
             for i in 2..<n {
                 dp[0][i] = max(dp[1][i-1] + score[0][i], dp[1][i-2] + score[0][i])
                 dp[1][i] = max(dp[0][i-1] + score[1][i], dp[0][i-2] + score[1][i])
-                
             }
         }
         answer.append(max(dp[0][n - 1], dp[1][n - 1]))
