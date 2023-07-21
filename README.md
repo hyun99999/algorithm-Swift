@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [정수 삼각형](https://www.acmicpc.net/problem/1932)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/정수 삼각형.swift)    | `23.07.21`  | dp |
 |   [RGB거리](https://www.acmicpc.net/problem/1149)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/RGB거리.swift)    | `23.07.21`  | dp |
 |   [물병](https://www.acmicpc.net/problem/1052)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/물병.swift)    | `23.07.20`  | 제곱값다루기 |
 |   [스티커](https://www.acmicpc.net/problem/9465)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/스티커.swift)    | `23.07.19`  | dp |
