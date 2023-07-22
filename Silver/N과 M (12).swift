@@ -29,26 +29,10 @@ func combination(_ arr: [Int], _ count: Int, _ start: Int) {
     }
 }
 
-for i in 0..<nm[0] {
-    combination([nList[i]], 1, i)
-}
+combination([], 0, 0)
 
 // MARK: - 출력
 
 answer.forEach {
     print($0.map { String($0) }.joined(separator: " "))
 }
-
-/*
- 4 4
- 1 1 2 2
- */
-
-
-/*
- 1 1 1 1
- 1 1 1 2
- 1 1 2 2
- 1 2 2 2
- 2 2 2 2
- */
