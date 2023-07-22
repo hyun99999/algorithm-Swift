@@ -36,3 +36,17 @@ combination([], 0, 0)
 answer.forEach {
     print($0.map { String($0) }.joined(separator: " "))
 }
+
+/*
+4 2
+9 7 9 1
+*/
+
+/*
+1 1
+1 7
+1 9
+7 7
+7 9
+9 9
+*/
