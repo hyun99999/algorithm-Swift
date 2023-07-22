@@ -104,7 +104,8 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [N과 M(12)](https://www.acmicpc.net/problem/15666)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/N과%20M(12).swift)    | `23.07.21`  | 중복 순열 |
+|   [색종이 만들기](https://www.acmicpc.net/problem/2630)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/색종이%20만들기.swift)    | `23.07.23`  | 재귀,분할정복 |
+|   [N과 M(12)](https://www.acmicpc.net/problem/15666)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/N과%20M(12).swift)    | `23.07.22`  | 중복 순열 |
 |   [택배 배송](https://www.acmicpc.net/problem/5972)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/택배%20배송.swift)    | `23.07.22`  | 다익스트라 |
 |   [최소비용 구하기](https://www.acmicpc.net/problem/1916)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/최소비용%20구하기.swift)    | `23.07.21`  | 다익스트라 |
 |   [곱셈](https://www.acmicpc.net/problem/1629)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/곱셈.swift)    | `23.07.21`  | 재귀,분할정복 |
