@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [트리 순회](https://www.acmicpc.net/problem/1991)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/트리%20순회.swift)    | `23.07.23`  | 전위,중위,후위 순회 |
 |   [계단 오르기](https://www.acmicpc.net/problem/2579)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/계단%20오르기.swift)    | `23.07.23`  | dp |
 |   [색종이 만들기](https://www.acmicpc.net/problem/2630)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/색종이%20만들기.swift)    | `23.07.23`  | 재귀,분할정복 |
 |   [N과 M(12)](https://www.acmicpc.net/problem/15666)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/N과%20M(12).swift)    | `23.07.22`  | 중복 순열 |
