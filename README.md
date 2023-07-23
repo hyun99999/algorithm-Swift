@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/뱀과%20사다리%20게임.swift)    | `23.07.24`  | bfs |
 |   [적록색약](https://www.acmicpc.net/problem/10026)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/적록색약.swift)    | `23.07.24`  | bfs |
 |   [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/트리의%20부모%20찾기.swift)    | `23.07.23`  | bfs,딕셔너리 |
 |   [N과 M (9)](https://www.acmicpc.net/problem/15663)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/N과%20M%20(9).swift)    | `23.07.23`  | 순열 |
