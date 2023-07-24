@@ -104,6 +104,8 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [2*n 타일링 2](https://www.acmicpc.net/problem/11727)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/2*n%20타일%202.swift)    | `23.07.24`  | dp |
+|   [2*n 타일링](https://www.acmicpc.net/problem/11726)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/2*n%20타일.swift)    | `23.07.24`  | dp |
 |   [이모티콘](https://www.acmicpc.net/problem/14226)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/이모티콘.swift)    | `23.07.24`  | bfs |
 |   [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/뱀과%20사다리%20게임.swift)    | `23.07.24`  | bfs |
 |   [적록색약](https://www.acmicpc.net/problem/10026)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/적록색약.swift)    | `23.07.24`  | bfs |
