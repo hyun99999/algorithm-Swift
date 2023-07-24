@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [좌표 압축](https://www.acmicpc.net/problem/18870)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/좌표%20압축.swift)    | `23.07.25`  | 이진탐색 |
 |   [구간 합 구하기 4](https://www.acmicpc.net/problem/11727)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/구간%20합%20구하기%204.swift)    | `23.07.24`  | dp |
 |   [2*n 타일링 2](https://www.acmicpc.net/problem/11727)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/2*n%20타일%202.swift)    | `23.07.24`  | dp |
 |   [2*n 타일링](https://www.acmicpc.net/problem/11726)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/2*n%20타일.swift)    | `23.07.24`  | dp |
