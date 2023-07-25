@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [비밀번호 찾기](https://www.acmicpc.net/problem/17219)       |   <img src="https://static.solved.ac/tier_small/7.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/비밀번호%20찾기.swift)    | `23.07.25`  | 딕셔너리 |
 |   [1,2,3 더하기](https://www.acmicpc.net/problem/9095)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/1,2,3%20더하기.swift)    | `23.07.25`  | dp |
 |   [좌표 압축](https://www.acmicpc.net/problem/18870)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/좌표%20압축.swift)    | `23.07.25`  | 이진탐색 |
 |   [구간 합 구하기 4](https://www.acmicpc.net/problem/11727)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/구간%20합%20구하기%204.swift)    | `23.07.24`  | dp |
