@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [블로그](https://www.acmicpc.net/problem/21921)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/블로그.swift)    | `23.07.25`  | 슬라이딩윈도우 |
 |   [내려가기](https://www.acmicpc.net/problem/2096)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/내려가기.swift)    | `23.07.25`  | dp |
 |   [IOIOI](https://www.acmicpc.net/problem/5525)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/IOIOI.swift)    | `23.07.25`  | dp |
 |   [피보나치 함수](https://www.acmicpc.net/problem/1003)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/피보나치%20함수.swift)    | `23.07.25`  | dp |
