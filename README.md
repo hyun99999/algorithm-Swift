@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [ATM](https://www.acmicpc.net/problem/11399)       |   <img src="https://static.solved.ac/tier_small/7.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/ATM.swift)    | `23.07.26`  | 그리디 |
 |   [파도반 수열](https://www.acmicpc.net/problem/9461)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/파도반%20수열.swift)    | `23.07.26`  | dp |
 |   [패션왕 신해빈](https://www.acmicpc.net/problem/9375)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/패션왕%20신해빈.swift)    | `23.07.26`  | 수학 |
 |   [DNA 비밀번호](https://www.acmicpc.net/problem/12891)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/DNA%20비밀번호.swift)    | `23.07.25`  | 슬라이딩윈도우 |
