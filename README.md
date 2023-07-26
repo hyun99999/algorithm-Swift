@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [패션왕 신해빈](https://www.acmicpc.net/problem/9375)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/패션왕%20신해빈.swift)    | `23.07.26`  |  |
 |   [DNA 비밀번호](https://www.acmicpc.net/problem/12891)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/DNA%20비밀번호.swift)    | `23.07.25`  | 슬라이딩윈도우 |
 |   [블로그](https://www.acmicpc.net/problem/21921)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/블로그.swift)    | `23.07.25`  | 슬라이딩윈도우 |
 |   [내려가기](https://www.acmicpc.net/problem/2096)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/내려가기.swift)    | `23.07.25`  | dp |
