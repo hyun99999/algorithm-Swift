@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [최대힙](https://www.acmicpc.net/problem/11279)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/최대힙.swift)    | `23.07.27`  | heap |
 |   [최소힙](https://www.acmicpc.net/problem/1927)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/최소힙.swift)    | `23.07.27`  | heap |
 |   [듣보잡](https://www.acmicpc.net/problem/1764)       |   <img src="https://static.solved.ac/tier_small/7.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/듣보잡.swift)    | `23.07.26`  | 딕셔너리 |
 |   [ATM](https://www.acmicpc.net/problem/11399)       |   <img src="https://static.solved.ac/tier_small/7.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/ATM.swift)    | `23.07.26`  | 그리디 |
