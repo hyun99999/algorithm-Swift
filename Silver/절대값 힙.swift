@@ -1,0 +1,272 @@
+import Foundation
+
+// 힙은 완전 이진 트리
+// 왼쪽 오른쪽 크기 상관 없음.
+
+struct MaxHeap<T: Comparable> {
+    var heap: [T] = []
+    
+    init() { }
+    init(_ element: T) {
+        heap.append(element) // 0번째 인덱스 채우기.
+        heap.append(element)
+    }
+    
+    mutating func insert(_ element: T) {
+        if heap.isEmpty {
+            heap.append(element)
+            heap.append(element)
+            
+            return
+        }
+        
+        heap.append(element)
+        
+        func isMoveUp(_ insertIndex: Int) -> Bool {
+            if insertIndex <= 1 {
+                // root node
+                return false
+            }
+            let parentIndex: Int = insertIndex / 2
+            
+            return heap[insertIndex] > heap[parentIndex] ? true : false
+        }
+        
+        var insertIndex = heap.count - 1
+        
+        while isMoveUp(insertIndex) {
+            let parentIndex: Int = insertIndex / 2
+            heap.swapAt(insertIndex, parentIndex)
+            insertIndex = parentIndex
+        }
+    }
+    
+    enum moveDownStatus {
+        case left
+        case right
+        case none
+    }
+    
+    mutating func pop() -> T? {
+        if heap.count <= 1 {
+            return nil
+        }
+        
+        let returnElement: T = heap[1]
+        heap.swapAt(1, heap.count - 1)
+        heap.removeLast()
+        
+        func moveDown(_ poppedIndex: Int) -> moveDownStatus {
+            let leftChildIndex: Int = poppedIndex * 2
+            let rightChildIndex: Int = poppedIndex * 2 + 1
+            
+            // 1.왼쪽 자식 노드가 없는 경우.
+            if leftChildIndex >= heap.count {
+                return .none
+            }
+            
+            // 2.왼쪽 자식 노드만 있는 경우.
+            if rightChildIndex >= heap.count {
+                return heap[leftChildIndex] > heap[poppedIndex] ? .left : .none
+            }
+            
+            // 3.왼쪽 오른쪽 자식 노드 모두 있는 경우.
+            // 3-1.자식들이 자신보다 작은 경우.
+            if heap[leftChildIndex] < heap[poppedIndex] && heap[rightChildIndex] < heap[poppedIndex] {
+                return .none
+            }
+            
+            // 3-2.자식들이 자신보다 모두 큰 경우.
+            if heap[leftChildIndex] > heap[poppedIndex] && heap[rightChildIndex] > heap[poppedIndex] {
+                return heap[leftChildIndex] > heap[rightChildIndex] ? .left : .right
+            }
+            
+            // 3-3.자식들 중 하나만 자신보다 큰 경우.
+            if heap[leftChildIndex] > heap[poppedIndex] || heap[rightChildIndex] > heap[poppedIndex] {
+                return heap[leftChildIndex] > heap[rightChildIndex] ? .left : .right
+            }
+            return .none
+        }
+        
+        var poppedIndex = 1
+        while true {
+            switch moveDown(poppedIndex) {
+            case .left:
+                let leftChiledIndex = poppedIndex * 2
+                heap.swapAt(leftChiledIndex, poppedIndex)
+                poppedIndex = leftChiledIndex
+            case .right:
+                let rightChildIndex = (poppedIndex * 2) + 1
+                heap.swapAt(rightChildIndex, poppedIndex)
+                poppedIndex = rightChildIndex
+            case .none:
+                return returnElement
+            }
+        }
+    }
+}
+
+struct MinHeap<T: Comparable> {
+    var heap: [T] = []
+    
+    init() { }
+    init(_ element: T) {
+        heap.append(element) // 0번째 인덱스 채우기.
+        heap.append(element)
+    }
+    
+    mutating func insert(_ element: T) {
+        if heap.isEmpty {
+            heap.append(element)
+            heap.append(element)
+            
+            return
+        }
+        
+        heap.append(element)
+        
+        func isMoveUp(_ insertIndex: Int) -> Bool {
+            if insertIndex <= 1 {
+                // root node
+                return false
+            }
+            let parentIndex: Int = insertIndex / 2
+            
+            return heap[insertIndex] < heap[parentIndex] ? true : false
+        }
+        
+        var insertIndex = heap.count - 1
+        
+        while isMoveUp(insertIndex) {
+            let parentIndex: Int = insertIndex / 2
+            heap.swapAt(insertIndex, parentIndex)
+            insertIndex = parentIndex
+        }
+    }
+    
+    enum moveDownStatus {
+        case left
+        case right
+        case none
+    }
+    
+    mutating func pop() -> T? {
+        if heap.count <= 1 {
+            return nil
+        }
+        
+        let returnElement: T = heap[1]
+        heap.swapAt(1, heap.count - 1)
+        heap.removeLast()
+        
+        func moveDown(_ poppedIndex: Int) -> moveDownStatus {
+            let leftChildIndex: Int = poppedIndex * 2
+            let rightChildIndex: Int = poppedIndex * 2 + 1
+            
+            // 1.왼쪽 자식 노드가 없는 경우.
+            if leftChildIndex >= heap.count {
+                return .none
+            }
+            
+            // 2.왼쪽 자식 노드만 있는 경우.
+            if rightChildIndex >= heap.count {
+                return heap[leftChildIndex] < heap[poppedIndex] ? .left : .none
+            }
+            
+            // 3.왼쪽 오른쪽 자식 노드 모두 있는 경우.
+            // 3-1.자식들이 자신보다 큰 경우.
+            if heap[leftChildIndex] > heap[poppedIndex] && heap[rightChildIndex] > heap[poppedIndex] {
+                return .none
+            }
+            
+            // 3-2.자식들이 자신보다 모두 작은 경우.
+            if heap[leftChildIndex] < heap[poppedIndex] && heap[rightChildIndex] < heap[poppedIndex] {
+                return heap[leftChildIndex] < heap[rightChildIndex] ? .left : .right
+            }
+            
+            // 3-3.자식들 중 하나만 자신보다 작은 경우.
+            if heap[leftChildIndex] < heap[poppedIndex] || heap[rightChildIndex] < heap[poppedIndex] {
+                return heap[leftChildIndex] < heap[rightChildIndex] ? .left : .right
+            }
+            return .none
+        }
+        
+        var poppedIndex = 1
+        while true {
+            switch moveDown(poppedIndex) {
+            case .left:
+                let leftChiledIndex = poppedIndex * 2
+                heap.swapAt(leftChiledIndex, poppedIndex)
+                poppedIndex = leftChiledIndex
+            case .right:
+                let rightChildIndex = (poppedIndex * 2) + 1
+                heap.swapAt(rightChildIndex, poppedIndex)
+                poppedIndex = rightChildIndex
+            case .none:
+                return returnElement
+            }
+        }
+    }
+}
+
+let n: Int = Int(readLine()!) ?? 0
+
+var min: MinHeap<Int> = MinHeap()
+// 아이디어: 음수를 최대힙에 넣어서 절대값이 제일 작은 것이 루트가 되도록 함.
+var max: MaxHeap<Int> = MaxHeap()
+
+for _ in 0..<n {
+    let x: Int = Int(readLine()!) ?? 0
+    
+    if x == 0 {
+        if min.heap.count <= 1 {
+            print(max.pop() ?? 0)
+        } else if max.heap.count <= 1 {
+            print(min.pop() ?? 0)
+        } else {
+            print(min.heap[1] >= abs(max.heap[1]) ? max.pop()! : min.pop()!)
+        }
+    } else {
+        if x > 0 {
+            min.insert(x)
+        } else {
+            max.insert(x)
+        }
+    }
+}
+
+
+/*
+18
+1
+-1
+0
+0
+0
+1
+1
+-1
+-1
+2
+-2
+0
+0
+0
+0
+0
+0
+0
+*/
+
+/*
+ -1
+ 1
+ 0
+ -1
+ -1
+ 1
+ 1
+ -2
+ 2
+ 0
+ */
