@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [절대값 힙](https://www.acmicpc.net/problem/11286)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/절대값%20힙.swift)    | `23.07.28`  | heap |
 |   [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)       |   <img src="https://static.solved.ac/tier_small/7.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/나는야%20포켓몬%20마스터%20이다솜.swift)    | `23.07.27`  | 딕셔너리 |
 |   [최대힙](https://www.acmicpc.net/problem/11279)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/최대힙.swift)    | `23.07.27`  | heap |
 |   [최소힙](https://www.acmicpc.net/problem/1927)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/최소힙.swift)    | `23.07.27`  | heap |
