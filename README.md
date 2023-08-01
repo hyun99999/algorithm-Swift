@@ -104,9 +104,8 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [LCS](https://www.acmicpc.net/problem/9251)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/LCS.swift)    | `23.08.01`  | 2차원dp |
 |   [평범한 배낭](https://www.acmicpc.net/problem/12865)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/평범한%20배낭.swift)    | `23.08.01`  | 0-1knapsack, 2차원dp |
-|   [LCS](https://www.acmicpc.net/problem/9251)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/LCS.swift)    | `23.07.30`  | dp |
+|   [LCS](https://www.acmicpc.net/problem/9251)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/LCS.swift)    | `23.08.01`  | 2차원dp |
 |   [도시 분할 계획](https://www.acmicpc.net/problem/1647)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/도시%20분할%20계획.swift)    | `23.07.30`  | MST |
 |   [절대값 힙](https://www.acmicpc.net/problem/11286)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/절대값%20힙.swift)    | `23.07.28`  | heap |
 |   [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)       |   <img src="https://static.solved.ac/tier_small/7.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/나는야%20포켓몬%20마스터%20이다솜.swift)    | `23.07.27`  | 딕셔너리 |
