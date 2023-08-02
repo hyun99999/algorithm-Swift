@@ -37,7 +37,6 @@ for i in 0..<nm[0] {
 
 // 치킨집을 최대 m개 골랐을 때 도시의 치킨 거리 최솟값 출력.
 // dfs 조합.
-// 재귀, 방문배열.
 
 /// 치킨집에 대해서 도시의 치킨 거리 반환.
 func search(in shop: [Point]) -> Int {
@@ -56,7 +55,6 @@ func search(in shop: [Point]) -> Int {
 }
 
 var answer: Int = Int.max
-var visited: [Bool] = Array(repeating: false, count: shopList.count)
 
 // 조합으로 치킨집 목록 작성.
 func dfs(_ start: Int, _ count: Int, _ shop: [Point]) {
@@ -67,9 +65,7 @@ func dfs(_ start: Int, _ count: Int, _ shop: [Point]) {
     }
     
     for i in start..<shopList.count {
-        visited[i] = true
         dfs(i + 1, count + 1, shop + [shopList[i]])
-        visited[i] = false
     }
 }
 
