@@ -47,10 +47,12 @@ func check() {
         
         for end in 1...nm[0] {
             if graph[start][end] {
+                // 자신 뒤에 확정.
                 right -= 1
             }
             
             if graph[end][start] {
+                // 자신 앞에 확정.
                 left += 1
             }
         }
