@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [동전 0](https://www.acmicpc.net/problem/11047)       |   <img src="https://static.solved.ac/tier_small/7.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/동전%200.swift)    | `23.08.02`  | 그리디 |
 |   [치킨 배달](https://www.acmicpc.net/problem/15686)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/치킨%20배달.swift)    | `23.08.02`  | dfs,조합 |
 |   [문제집](https://www.acmicpc.net/problem/1766)       |   <img src="https://static.solved.ac/tier_small/14.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/문제집.swift)    | `23.08.01`  | 위상정렬 |
 |   [줄 세우기](https://www.acmicpc.net/problem/2252)       |   <img src="https://static.solved.ac/tier_small/13.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/줄%20세우기.swift)    | `23.08.01`  | 위상정렬 |
