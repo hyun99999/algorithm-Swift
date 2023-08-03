@@ -104,6 +104,8 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [Four Squares](https://www.acmicpc.net/problem/6064)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/Four%20Squares.swift)    | `23.08.03`  | dp,제곱수 |
+|   [카잉 달력](https://www.acmicpc.net/problem/17626)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/카잉%20달력.swift)    | `23.08.03`  | 수학 |
 |   [줄 서기](https://www.acmicpc.net/problem/2273)       |   <img src="https://static.solved.ac/tier_small/13.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/치줄%20서기.swift)    | `23.08.02`  | 플로이드워셜,위상 |
 |   [한 줄로 서기](https://www.acmicpc.net/problem/1138)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/한%20줄로%20서기.swift)    | `23.08.02`  | 구현 |
 |   [동전 0](https://www.acmicpc.net/problem/11047)       |   <img src="https://static.solved.ac/tier_small/7.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/동전%200.swift)    | `23.08.02`  | 그리디 |
