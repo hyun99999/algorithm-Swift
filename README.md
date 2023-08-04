@@ -1,4 +1,4 @@
-🫠 ***Swift 알고리즘 대작전***
+ㅑㅒ()🫠 ***Swift 알고리즘 대작전***
 
 > DFS : `stack, 재귀`
 
@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/단어%20뒤집기%202.swift)    | `23.08.04`  | 구현 |
 |   [통계학](https://www.acmicpc.net/problem/2108)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/통계학.swift)    | `23.08.03`  | 구현 |
 |   [프린터 큐](https://www.acmicpc.net/problem/1966)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/프린터%20큐.swift)    | `23.08.03`  | 구현 |
 |   [N과 M (2)](https://www.acmicpc.net/problem/15650)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/N과%20M%20(2).swift)    | `23.08.03`  | 조합 |
