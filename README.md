@@ -104,7 +104,8 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
-|   [참외밭](https://www.acmicpc.net/problem/2477)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/참외ㅌ.swift)    | `23.08.07`  | 구현 |
+|   [숫자 정사각형](https://www.acmicpc.net/problem/1051)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/숫자%20정사각형.swift)    | `23.08.07`  | 구현 |
+|   [참외밭](https://www.acmicpc.net/problem/2477)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/참외밭.swift)    | `23.08.07`  | 구현 |
 |   [사탕 게임](https://www.acmicpc.net/problem/3085)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/사탕%20게임.swift)    | `23.08.06`  | 구현 |
 |   [마인크래프트](https://www.acmicpc.net/problem/18111)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/마인크래프트.swift)    | `23.08.05`  | 구현 |
 |   [괄호의 값](https://www.acmicpc.net/problem/17413)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/괄호의%20값.swift)    | `23.08.04`  | 구현 |
