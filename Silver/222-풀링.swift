@@ -1,4 +1,5 @@
-//
+// 정사각형의 네 원소를 크기순으로 배열하고 두번째 수로 압축.
+// 이를 통해 크기를 1*1으로 만들때 남는 수를 구하시오.
 
 let n: Int = Int(readLine()!) ?? 0
 
@@ -9,10 +10,12 @@ for i in 0..<n {
     
     board[i] = input
 }
+// MARK: - 입력끝.
 
 func recursion(_ row: Int, _ col: Int, _ size: Int) -> Int {
     if size == 2 {
         // 2*2
+        // 두 번째 큰 수를 리턴.
         var arr: [Int] = []
         
         for i in row..<2 + row {
