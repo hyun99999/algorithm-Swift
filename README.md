@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [222-풀링](https://www.acmicpc.net/problem/17829)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/222-풀링.swift)    | `23.08.08`  | 구현 |
 |   [파이프 옮기기 2](https://www.acmicpc.net/problem/17069)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/파이프%20옮기기%202.swift)    | `23.08.07`  | dp |
 |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/파이프%20옮기기%201.swift)    | `23.08.06`  | dfs |
 |   [숫자 정사각형](https://www.acmicpc.net/problem/1051)       |   <img src="https://static.solved.ac/tier_small/8.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/숫자%20정사각형.swift)    | `23.08.07`  | 구현 |
