@@ -1,4 +1,4 @@
-ㅑㅒ()🫠 ***Swift 알고리즘 대작전***
+🫠 ***Swift 알고리즘 대작전***
 
 > DFS : `stack, 재귀`
 
@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [스택 수열](https://www.acmicpc.net/problem/1874)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/스택%20수열.swift)    | `23.08.14`  | 자료구조 |
 |   [랜선 자르기](https://www.acmicpc.net/problem/1654)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/랜선%20자르기.swift)    | `23.08.10`  | 이진탐색 |
 |   [222-풀링](https://www.acmicpc.net/problem/17829)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/222-풀링.swift)    | `23.08.08`  | 구현 |
 |   [파이프 옮기기 2](https://www.acmicpc.net/problem/17069)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/파이프%20옮기기%202.swift)    | `23.08.07`  | dp |
