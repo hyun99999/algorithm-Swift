@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [트럭](https://www.acmicpc.net/problem/13335)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/트럭.swift)    | `23.08.15`  | 구현 |
 |   [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/최소%20스패닝%20트리.swift)    | `23.08.14`  | mst |
 |   [스택 수열](https://www.acmicpc.net/problem/1874)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/스택%20수열.swift)    | `23.08.14`  | 자료구조 |
 |   [랜선 자르기](https://www.acmicpc.net/problem/1654)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/랜선%20자르기.swift)    | `23.08.10`  | 이진탐색 |
