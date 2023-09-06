@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [거짓말](https://www.acmicpc.net/problem/1043)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/거짓말.swift)    | `23.09.06`  | union-find |
 |   [싸이버개강총회](https://www.acmicpc.net/problem/19583)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/싸이버개강총회.swift)    | `23.09.05`  | 구현 |
 |   [후보 추천하기](https://www.acmicpc.net/problem/1713)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/후보%20추천하기.swift)    | `23.08.31`  | 구현 |
 |   [지구 온난화](https://www.acmicpc.net/problem/5212)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/지구%20온난화.swift)    | `23.08.30`  | 구현 |
