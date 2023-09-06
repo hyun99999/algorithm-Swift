@@ -104,6 +104,8 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [보물섬](https://www.acmicpc.net/problem/2589)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/보물섬.swift)    | `23.09.06`  | bfs+깊이저장 |
+|   [영역 구하기](https://www.acmicpc.net/problem/2583)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/영역%20구하기.swift)    | `23.09.06`  | dfs |
 |   [경비원](https://www.acmicpc.net/problem/2564)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/경비원.swift)    | `23.09.06`  | 구현 |
 |   [거짓말](https://www.acmicpc.net/problem/1043)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/거짓말.swift)    | `23.09.06`  | union-find |
 |   [싸이버개강총회](https://www.acmicpc.net/problem/19583)       |   <img src="https://static.solved.ac/tier_small/9.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/싸이버개강총회.swift)    | `23.09.05`  | 구현 |
