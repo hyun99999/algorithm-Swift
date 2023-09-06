@@ -31,7 +31,7 @@ var visited: [[Bool]] = Array(repeating: Array(repeating: false, count: mnk[1]),
 let drow: [Int] = [-1, 1, 0, 0]
 let dcol: [Int] = [0, 0, -1, 1]
 
-func dfs(_ start: Point) -> Int {
+func bfs(_ start: Point) -> Int {
     var count: Int = 1
     
     queue.append(start)
