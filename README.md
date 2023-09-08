@@ -252,6 +252,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [과제 수행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/과제%20수행하기.swift)    | `23.09.08`  | 스택 |
 |   [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/요격%20시스템.swift)    | `23.09.08`  | 그리디 |
 |   [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/달리기%20경주.swift)    | `23.07.14`  | 딕셔너리 |
 |   [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/추억%20점수.swift)    | `23.07.14`  |  |
