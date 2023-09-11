@@ -252,6 +252,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928?language=python3)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/공원%20산책.swift)    | `23.09.11`  | 구현 |
 |   [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/공물%20캐기.swift)    | `23.09.08`  | 그리디 |
 |   [과제 수행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/과제%20수행하기.swift)    | `23.09.08`  | 스택 |
 |   [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/요격%20시스템.swift)    | `23.09.08`  | 그리디 |
