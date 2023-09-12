@@ -253,6 +253,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/덧칠하기.swift)    | `23.09.12`  | 구현 |
 |   [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/바탕화면%20정리.swift)    | `23.09.12`  | 구현 |
 |   [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/공원%20산책.swift)    | `23.09.11`  | 구현 |
 |   [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/공물%20캐기.swift)    | `23.09.08`  | 그리디 |
