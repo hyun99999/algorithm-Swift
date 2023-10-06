@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [포도주 시식](https://www.acmicpc.net/problem/2156)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/포도주%20시식.swift)    | `23.10.06`  | dfs |
 |   [N-Queen](https://www.acmicpc.net/problem/9663)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/N-Queen.swift)    | `23.09.12`  | dfs,백트래킹 |
 |   [로봇 청소기](https://www.acmicpc.net/problem/14503)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/로봇%20청소기.swift)    | `23.09.07`  | 구현 |
 |   [특정한 최단 경로](https://www.acmicpc.net/problem/1504)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/특정한%20최단%20경로.swift)    | `23.09.07`  | 다익스트라 |
