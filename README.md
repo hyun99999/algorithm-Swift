@@ -104,6 +104,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [쉬운 계단 수](https://www.acmicpc.net/problem/10844)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/쉬운%20계단%20수.swift)    | `23.10.17`  | dp |
 |   [봄버맨](https://www.acmicpc.net/problem/16918)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/봄버맨.swift)    | `23.10.06`  | 구현 |
 |   [포도주 시식](https://www.acmicpc.net/problem/2156)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/포도주%20시식.swift)    | `23.10.06`  | dp |
 |   [N-Queen](https://www.acmicpc.net/problem/9663)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/N-Queen.swift)    | `23.09.12`  | dfs,백트래킹 |
