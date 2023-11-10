@@ -106,6 +106,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [암호 만들기](https://www.acmicpc.net/problem/1759)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/암호%20만들기.swift)    | `23.11.10`  | dfs(완전탐색 조합) |
 |   [오르막 수](https://www.acmicpc.net/problem/11057)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/오르막%20수.swift)    | `23.11.02`  | dp |
 |   [나이트의 이동](https://www.acmicpc.net/problem/7562)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/나이트의%20이동.swift)    | `23.11.01`  | bfs |
 |   [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/연산자%20끼워넣기.swift)    | `23.11.01`  | dfs(백트래킹) |
