@@ -106,6 +106,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [탑](https://www.acmicpc.net/problem/2493)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/탑.swift)    | `23.11.13`  | 스택 |
 |   [동전 1](https://www.acmicpc.net/problem/2293)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/동전%201.swift)    | `23.11.13`  | dp |
 |   [암호 만들기](https://www.acmicpc.net/problem/1759)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/암호%20만들기.swift)    | `23.11.10`  | dfs(완전탐색 조합) |
 |   [오르막 수](https://www.acmicpc.net/problem/11057)       |   <img src="https://static.solved.ac/tier_small/10.svg" width ="15"> |   [🥈](https://github.com/hyun99999/algorithm-Swift/blob/master/Silver/오르막%20수.swift)    | `23.11.02`  | dp |
