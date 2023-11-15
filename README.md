@@ -106,6 +106,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [톱니바퀴](https://www.acmicpc.net/problem/14891)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/톱니바퀴.swift)    | `23.11.15`  | 구현 |
 |   [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/옥상%20정원%20꾸미기.swift)    | `23.11.13`  | 모노톤 스택 |
 |   [탑](https://www.acmicpc.net/problem/2493)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/탑.swift)    | `23.11.13`  | 모노톤 스택 |
 |   [동전 1](https://www.acmicpc.net/problem/2293)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/동전%201.swift)    | `23.11.13`  | dp |
