@@ -106,6 +106,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [트리의 지름](https://www.acmicpc.net/problem/1967)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/트리의%20지름.swift)    | `23.11.15`  | dfs 백트래킹 |
 |   [수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/수%20이어%20쓰기%202.swift)    | `23.11.15`  | 수학 구현 |
 |   [톱니바퀴](https://www.acmicpc.net/problem/14891)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/톱니바퀴.swift)    | `23.11.15`  | 구현 |
 |   [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/옥상%20정원%20꾸미기.swift)    | `23.11.13`  | 모노톤 스택 |
