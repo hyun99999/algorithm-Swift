@@ -106,6 +106,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/컨베이어%20벨트%20위의%20로봇.swift)    | `23.11.18`  | 구현 |
 |   [벽장문의 이동](https://www.acmicpc.net/problem/2666)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/벽장문의%20이동.swift)    | `23.11.17`  | dfs |
 |   [A와 B](https://www.acmicpc.net/problem/12904)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/A와%20B.swift)    | `23.11.16`  | 그리디 |
 |   [트리의 지름](https://www.acmicpc.net/problem/1967)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/트리의%20지름.swift)    | `23.11.15`  | dfs 백트래킹 |
