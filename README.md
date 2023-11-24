@@ -273,6 +273,8 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/코딩%20테스트%20공부.swift)    | `23.11.24`  | 2차원 dp |
+|   [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/이모티콘%20할인행사.swift)    | `23.11.24`  | 완전탐색 |
 |   [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)             |  Level 2|   [🏋️‍](https://github.com/hyun99999/algorithm-Swift/blob/master/Level2/미로%20탈출.swift)    | `23.10.13`  | bfs |
 |   [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/카드%20뭉치.swift)    | `23.10.13`  | 구현 |
 |   [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)             |  Level 1|   [🏊‍♂️](https://github.com/hyun99999/algorithm-Swift/blob/master/Level1/대충%20만든%20자판.swift)    | `23.10.13`  | 구현 |
