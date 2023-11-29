@@ -19,6 +19,7 @@ for i in 0..<n {
 // dfs. 백트래킹
 // 재귀 + 방문 배열
 
+// 💪 문제를 해석할 때 방문배열을 사용하는 포인트
 var visited: [Bool] = Array(repeating: false, count: n)
 
 func dfs(start: Int, count: Int) {
