@@ -106,6 +106,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [공유기 설치](https://www.acmicpc.net/problem/2110)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/공유기%20설치.swift)    | `23.11.29`  | 이진탐색💪 |
 |   [스도쿠](https://www.acmicpc.net/problem/2580)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/스도쿠.swift)    | `23.11.29`  | 백트래킹 |
 |   [연구소](https://www.acmicpc.net/problem/14502)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/연구소.swift)    | `23.11.22`  | bfs,재귀 |
 |   [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/컨베이어%20벨트%20위의%20로봇.swift)    | `23.11.18`  | 구현 |
