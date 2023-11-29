@@ -106,6 +106,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [스도쿠](https://www.acmicpc.net/problem/2580)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/스도쿠.swift)    | `23.11.29`  | 백트래킹 |
 |   [연구소](https://www.acmicpc.net/problem/14502)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/연구소.swift)    | `23.11.22`  | bfs,재귀 |
 |   [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/컨베이어%20벨트%20위의%20로봇.swift)    | `23.11.18`  | 구현 |
 |   [벽장문의 이동](https://www.acmicpc.net/problem/2666)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/벽장문의%20이동.swift)    | `23.11.17`  | dfs |
