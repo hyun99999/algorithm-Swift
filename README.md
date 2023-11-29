@@ -275,6 +275,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level4/징검다리.swift)    | `23.11.29`  | 이진탐색💪 |
 |   [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/길%20찾기%20게임.swift)    | `23.11.28`  | 이진탐색트리💪 |
 |   [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/부대복귀.swift)    | `23.11.24`  | bfs💪 |
 |   [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)               |  Level 3|   [🚴](https://github.com/hyun99999/algorithm-Swift/blob/master/Level3/코딩%20테스트%20공부.swift)    | `23.11.24`  | 2차원 dp |
