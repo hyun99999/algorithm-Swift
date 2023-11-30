@@ -106,6 +106,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [수 나누기 게임](https://www.acmicpc.net/problem/27172)       |   <img src="https://static.solved.ac/tier_small/11.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/수%20나누기%20게임.swift)    | `23.11.30`  | 완전탐색(배수) |
 |   [카드 정렬하기](https://www.acmicpc.net/problem/1715)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/카드%20정렬하기.swift)    | `23.11.30`  | 우선순위큐💪 |
 |   [공유기 설치](https://www.acmicpc.net/problem/2110)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/공유기%20설치.swift)    | `23.11.29`  | 이진탐색💪 |
 |   [스도쿠](https://www.acmicpc.net/problem/2580)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/스도쿠.swift)    | `23.11.29`  | 백트래킹 |
