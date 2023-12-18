@@ -106,6 +106,7 @@ Array(stack[0..<(stack.count - 4)])
 
 |    문제                   |   난이도   |   풀이   |  날짜   |  알고리즘  |
 | :----------------------: | :------: | :-------: |:-------:|:-------:|
+|   [미친 로봇](https://www.acmicpc.net/problem/1405)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/미친%20로봇.swift)    | `23.12.18`  | dfs(백트래킹) |
 |   [단어 수학](https://www.acmicpc.net/problem/1339)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/단어%20수학.swift)    | `23.12.15`  | 그리디 |
 |   [소트 게임](https://www.acmicpc.net/problem/1327)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/소트%20게임.swift)    | `23.12.08`  | bfs(완전탐색)💪 |
 |   [음식 평론가](https://www.acmicpc.net/problem/1188)       |   <img src="https://static.solved.ac/tier_small/12.svg" width ="15"> |   [🥇](https://github.com/hyun99999/algorithm-Swift/blob/master/Gold/음식%20평론가.swift)    | `23.12.05`  | 수학(최대공약수) |
